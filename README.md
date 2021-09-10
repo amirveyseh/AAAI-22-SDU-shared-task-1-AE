@@ -37,7 +37,7 @@ In order to participate, please first fill out this form to register for the sha
 - *Development Phase*: In this phase, the participants will use the training/development sets provided in this repository to design and develop their models. 
 - *Evaluation Phase*: 10 days before the system runs due, i.e., 1th November 2020, the test set is released here. The test set has the same distribution and format as the development set. Run your model on the provided test set and save the prediction results in a Json file with the same format as the "dev.json" file. Name the prediction file as "**output.json**" and submit the file to CodaLab competition page.
 
-For more information, see [SDU@AAAI-21](https://sites.google.com/view/sdu-aaai21/shared-task).
+For more information, see [SDU@AAAI-22](https://sites.google.com/view/sdu-aaai22/shared-task).
 
 # Licenses
 The dataset provided for this shared task is licensed under [CC BY-NC-SA 4.0 international license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), and the evaluation script and the baseline are licensed under MIT license.
