@@ -17,7 +17,7 @@ The dataset folder contains data for six languages English (Legal domain and Sci
 # Code
 In order to familiarize the participants with this task, we provide a rule-based model in the `code` directory. In this baseline, the words that more than 60% of their characters are uppercased are selected as acronym. To select long-forms, if the initial characters of the preceeding words before an acronym can form the acronym they are selected as long-form. To run this model, use the following command:
 
-`python code/character_match.py -input <path/to/input.json> -output <path/to/output.json>`
+`python code/baseline.py -input <path/to/input.json> -output <path/to/output.json>`
 
 Please replace the `<path/to/input.json>` and `<path/to/output.json>` with the real paths to the input file (e.g., `dataset/dev.json`) and output file. The output file contains the predictions and can be evaluated by the scorer using the command described in the next section. The official scores for this baseline are: *Precision: 93.22%, Recall: 78.90%, F1: 85.46%*
   
