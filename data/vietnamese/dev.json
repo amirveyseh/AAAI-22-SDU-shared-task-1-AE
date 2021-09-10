@@ -7,7 +7,8 @@
         75
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "1"
   },
   {
     "text": "Learning ( PIRL ) [ 10 ] học biểu diễn ảnh sao cho biểu diễn đó bất biến với phép biến đổi ảnh dựa vào trò chơi xếp hình jigsaw puzzle . Gần đây , những tiến bộ",
@@ -17,7 +18,8 @@
         15
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "2"
   },
   {
     "text": "làm trước đó và nhóm nghiên cứu hi vọng , phương pháp LCL sẽ đem lại những hiệu ứng và kết quả tốt đẹp , có triển vọng trong tương lai . 4.3",
@@ -27,7 +29,8 @@
         57
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "3"
   },
   {
     "text": "Điều này mở ra một hướng có thể áp dụng VBD trong các phương pháp thuộc lớp tiếp cận dựa trên mở rộng kiến trúc đã có . 41",
@@ -37,7 +40,8 @@
         43
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "4"
   },
   {
     "text": "Hà Nội , ngày 18 tháng 06 năm 2021 Giảng viên hướng dẫn PGS. TS Thân Quang Khoát",
@@ -51,12 +55,14 @@
         63
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "5"
   },
   {
     "text": "Câu 2 : Two weeks ago , viewers of several NBC daytime consumer segment s started calling a 900 number for advice on various life - style issues .",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "6"
   },
   {
     "text": "Mô hình Neural Collaborative Filtering ( NCF ) do Xiangnan He và các đồng nghiệp đề xuất [ 3 ] . Model này gồm có hai nhánh hợp thành là Generalized Matrix",
@@ -66,7 +72,8 @@
         44
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "7"
   },
   {
     "text": "độ overfit càng giảm Soft parameter sharing Hình dưới đây mô tả phương pháp soft parameter sharing trong MTL .",
@@ -76,7 +83,8 @@
         108
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "8"
   },
   {
     "text": "Tác giả ĐATN Nguyễn Thế Linh 5 . Xác nhận của giáo viên hướng dẫn về mức độ hoàn thành của ĐATN và cho phép bảo vệ :",
@@ -90,12 +98,14 @@
         95
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "9"
   },
   {
     "text": "Đưa chuỗi này qua K mạng tích chập Conv1 , Conv2 , … , Convk và max pooling ( để đơn giản ta set K = 2 ) Với mỗi mạng tích chập i ta thu được vector :",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "10"
   },
   {
     "text": "Phương pháp tiếp cận dựa trên Support Vector Machine ( SVM ) .. 17 2.2.",
@@ -105,17 +115,20 @@
         58
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "11"
   },
   {
     "text": "trí , âm nhạc … ) trong một khoảng thời gian nhất định . Input : Person ( P ) , Page ( Pg ) , Comment ( C ) , Status ( S ) Output : G ( N , E )",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "12"
   },
   {
     "text": "Trong đó , V là số chiều từ điển được xây dựng trên toàn bộ các văn bản hoặc được sử dụng từ bộ từ điển có sẵn . Tham số 𝛽𝑘𝑣 được minh họa bằng hình vẽ",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "13"
   },
   {
     "text": "Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT 20 2 KIẾN THỨC CƠ SỞ",
@@ -125,7 +138,8 @@
         74
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "14"
   },
   {
     "text": "việc học của CL được quyết định nhiều bởi các cặp positive và negative , tuy nhiên Đồ án tốt nghiệp 30",
@@ -135,7 +149,8 @@
         15
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "15"
   },
   {
     "text": "cách ghép khác nhau : sum , concat , mul , … Cấu trúc này cho phép các mạng có cả thông tin lùi và tiến về chuỗi ở mỗi bước . Hình 3 Mạng nơ-ron hồi quy mở rộng RNN hai chiều",
@@ -150,7 +165,8 @@
         133,
         152
       ]
-    ]
+    ],
+    "ID": "16"
   },
   {
     "text": "Đại học Bách Khoa Hà Nội Viện Công nghệ Thông tin và Truyền thông Trong các phương pháp thuộc CL , bên cạnh cặp positive và negative , người ta còn",
@@ -160,7 +176,8 @@
         96
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "17"
   },
   {
     "text": "hình 25 : ACD ca sử dụng xem thông tin bài đăng 3 . 4 . 5 . Tìm kiếm việc làm theo từ khóa",
@@ -170,7 +187,8 @@
         13
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "18"
   },
   {
     "text": "Em - Lê Thế Nam - cam kết đồ án nghiên cứu ( ĐANC ) là công trình nghiên cứu của riêng em dưới sự hướng dẫn của ThS. Ngô Văn Linh . Các kết quả có",
@@ -189,7 +207,8 @@
         26,
         42
       ]
-    ]
+    ],
+    "ID": "19"
   },
   {
     "text": "trong việc kết hợp các thuật toán của Manifold Learning vào hướng nghiên cứu CL truyền thống . Bên cạnh việc xây dựng một nền tảng lí thuyết cho LCL , các thực",
@@ -203,7 +222,8 @@
         148
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "20"
   },
   {
     "text": "Có tổng cộng 60000 ảnh cho tập huấn luyện và 10000 ảnh cho tập kiểm thử . Chia MNIST thành cách nhóm",
@@ -213,12 +233,14 @@
         84
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "21"
   },
   {
     "text": "Viện Công nghệ Thông tin và Truyền thông Hình 11 : Kiến trúc tổng quan của mạng để giải bài toán xếp hình ( Nguồn : [ NF16 ] )",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "22"
   },
   {
     "text": "network ) , giúp các mô hình này giảm được overfitting một cách hiệu quả . Ý Sinh viên thực hiện : Nguyễn Văn Sơn , 20143863 , K59 , Lớp KSTN - CNTT",
@@ -228,17 +250,20 @@
         148
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "23"
   },
   {
     "text": "Trong khi đó , nhìn chung xu hướng càng tăng C thì kết quả biểu diễn ẩn tìm được Đồ án tốt nghiệp 55",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "24"
   },
   {
     "text": "toán này là chia các quan sát vào K cụm ( K biết trước ) sao cho mỗi quan sát chỉ thuộc về một cụm duy nhất . Khoảng cách giữa các quan sát trong cùng một cụm nhỏ hơn so với",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "25"
   },
   {
     "text": "Hình 8 : Mô tả cách xây dựng dữ liệu huấn luyện . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Sinh viên thực hiện : Nguyễn Thế Linh – 20142585 – K59 – Lớp CNTT – TT 2.03",
@@ -248,7 +273,8 @@
         326
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "26"
   },
   {
     "text": "Hình 16 : So sánh kiến trúc MOCO với các kĩ thuật trước đây ( Nguồn [ He+20 ] ) mometum 0",
@@ -258,12 +284,14 @@
         32
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "27"
   },
   {
     "text": "xác suất tương ứng p ( z = k|d ) = DOC [ d, k ] và p ( z = k|j ) = T OP IC [ k, j ] . Lúc này , hai ma trận DOC và T OP IC được gọi là các tham số của mô hình , được xác",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "28"
   },
   {
     "text": "Variational Bayes ( AEVB ) là phương pháp sử dụng mạng suy diễn có khả năng ánh xạ trực tiếp một văn bản tới một phân phối hậu nghiệm xấp xỉ , có hiệu quả tính toán tương đối cao mà chi phí so với các phương pháp khác lại thấp .",
@@ -273,7 +301,8 @@
         24
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "29"
   },
   {
     "text": "bằng việc quan sát sự tác động khác nhau của các siêu tham số lên mô hình mà đồ án đề xuất , em nhận thấy kết quả đạt được không hề thua kém so với các kết quả SOTA hiện nay trong CL và hướng nghiên cứu này sẽ còn có thể phát triển",
@@ -287,7 +316,8 @@
         182
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "30"
   },
   {
     "text": "với các phương pháp trong CL truyền thống chính là nằm ở chỗ , các tri thức về cấu trúc cục bộ của không gian gốc được đưa vào để mô hình có thể học được . Và",
@@ -297,7 +327,8 @@
         28
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "31"
   },
   {
     "text": "( 20 ) Ưu điểm lớn nhất của FCM là nó có thể phân các quan sát về nhiều nhóm cùng lúc . Trong tự nhiên điều này hợp lí hơn là mỗi đối tượng chỉ thuộc về một nhóm , ví dụ một",
@@ -307,12 +338,14 @@
         31
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "32"
   },
   {
     "text": "Khi đó , nếu trên thực tế rank ( H ) > k , phép phân rã trên 57 Đồ án tốt nghiệp kĩ sư hệ thống thông tin",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "33"
   },
   {
     "text": "CIFAR100 . Điều này giúp cho mô hình tránh được hiện tượng học quá khớp , do lượng dữ liệu của CIFAR10 lớn hơn rất nhiều so với dữ liệu của các tác vụ được",
@@ -326,12 +359,14 @@
         102
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "34"
   },
   {
     "text": "( 17 ) j=1 Với W thỏa mãn điều kiện :",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "35"
   },
   {
     "text": "Nhưng ở chiều dịch Việt - Anh , kết quả LSTM lại cao hơn kết quả ở chiều dịch Anh - Việt và trái ngược hẳn với hai mô hình Transformer và ConvS2S .",
@@ -345,7 +380,8 @@
         145
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "36"
   },
   {
     "text": "liệu \" views \" và \" wants \" tương ứng . Các tham số của mô hình được ước lượng sử dụng kỹ thuật stochastic gradient descent ( SGD ) truyền thống .",
@@ -355,12 +391,14 @@
         129
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "37"
   },
   {
     "text": "q ( Θ | λ̂t ) ∝ exp ( λ̂t . T (Θ ) ) Ở đây giá trị tiên nghiệm η được chuyển thành tham số tự nhiên λ0 của một",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "38"
   },
   {
     "text": ". . . Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT 12",
@@ -370,12 +408,14 @@
         80
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "39"
   },
   {
     "text": "pu ( x ) trong đó , pu ( x) là một phân phối xác suất không đổi của x . Như vậy chúng ta mô hình hóa bài toán thành xấp xỉ p ( Θt | D1 : t−1 ) bởi một",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "40"
   },
   {
     "text": "Bảng 0 .3 Tham số tốt nhất cho Split CIFAR100 EWC",
@@ -389,7 +429,8 @@
         49
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "41"
   },
   {
     "text": "Ở đây đại lượng phân phối 𝑞𝑡 ( θ ) cần được chọn để ước lượng , VCL đề xuất sử 𝑘 dụng xấp xỉ bằng GMF , ở đó chiều thứ 𝑗 ′ của tham số θ = { 𝜃𝑗 } 𝑗=1 sẽ tuân theo",
@@ -403,7 +444,8 @@
         101
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "42"
   },
   {
     "text": "Phương pháp tối ưu là stochastic gradient descent ( SGD ) . Mô hình ITE ( Implicit to Explicit ) Như đã đề cập ở phần trước , trong một số hệ thống mà dữ liệu hành vi tiềm ẩn và",
@@ -417,7 +459,8 @@
         71
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "43"
   },
   {
     "text": "mua nó ) . Em gọi nhóm các mô hình loại này là Implicit To Explicit ( ITE ) . Sau đây , em sẽ giới thiệu về sáu mô hình cụ thể trong nhóm các mô hình",
@@ -427,7 +470,8 @@
         73
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "44"
   },
   {
     "text": "3 . 4 . 1 Generalized Matrix Factorization ( GMF ) Hình 18 . Mô hình Gereralized Matrix Factorization",
@@ -437,12 +481,14 @@
         48
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "45"
   },
   {
     "text": "∆T ransf ormer − base Anh - Việt Việt - Anh",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "46"
   },
   {
     "text": "• Cũng giống như các phương pháp thuần lọc cộng tác khác , mô hình NeuMF gặp vấn đề cold start . Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT",
@@ -456,7 +502,8 @@
         171
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "47"
   },
   {
     "text": "′ Theo công thức PT 3. 15 , ta thấy nếu như thành phần 𝐶𝑜𝑣 [ 𝐿 ( 𝑚 ) , 𝐿 ( 𝑚 ) ] ≠ 0 , khi đó phương sai của khả năng xảy ra trên toàn bộ dữ liệu sẽ lớn , dẫn đến việc tối ưu",
@@ -466,7 +513,8 @@
         19
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "48"
   },
   {
     "text": "2 . 2 Mô hình Gợi ý tin tức dựa trên cơ chế Học chú ý đa góc nhìn ( NAML )",
@@ -481,12 +529,14 @@
         6,
         65
       ]
-    ]
+    ],
+    "ID": "49"
   },
   {
     "text": "𝑁 ( 𝜇𝑚 , 𝜎𝑚 , trong đó { 𝑚",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "50"
   },
   {
     "text": "Stochastic Optimization Tối ưu hóa ngẫu nhiên LSA",
@@ -496,7 +546,8 @@
         49
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "51"
   },
   {
     "text": "CIFAR10 / 100 Trong thử nghiệm này , qua Hình 4.9 ta thấy được các kết quả đạt được trên các phương pháp đều cao hơn so với thử nghiệm trên Split Cifar 100 , mặc dù các tác",
@@ -510,7 +561,8 @@
         151
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "52"
   },
   {
     "text": "Normalized discounted cumulative gain NDCG Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT",
@@ -524,7 +576,8 @@
         42
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "53"
   },
   {
     "text": "Phần này sẽ trình bày về kỹ thuật Dropout Bayes biến phân ( VBD ) cũng như kiến thức liên quan . Để đơn giản , ta làm việc với một tầng kết nối đầy đủ ( Fullyconnected layer ) với K nơ-ron đầu vào , D nơ-ron đầu ra trước hàm kích hoạt .",
@@ -539,7 +592,8 @@
         34,
         57
       ]
-    ]
+    ],
+    "ID": "54"
   },
   {
     "text": "Kiến trúc của mô hình hoàn Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT 35",
@@ -549,7 +603,8 @@
         101
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "55"
   },
   {
     "text": "biểu diễn ẩn hi = f ( xi ) 3 . Một mạng MLP g ( . ) đơn giản hay còn gọi là projection head để map từ không",
@@ -559,7 +614,8 @@
         43
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "56"
   },
   {
     "text": "en và train . vi . Mô hình ngôn ngữ sử dụng mô hình ngôn ngữ dựa trên LSTM",
@@ -577,7 +633,8 @@
         16
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "57"
   },
   {
     "text": "dụng kết hợp dữ liệu hành vi tiềm ẩn và hành vi rõ ràng được công bố gần đây hay không ? • Mô hình ITE - item _ pcat và ITE - user _ item _ pcat có hiệu quả hơn khi có",
@@ -591,7 +648,8 @@
         144
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "58"
   },
   {
     "text": "sự hướng dẫn của THS. Ngô Văn Linh . Các kết quả nêu trong ĐATN là trung thực , không phải sao chép của bất cứ công",
@@ -605,7 +663,8 @@
         63
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "59"
   },
   {
     "text": "Sentence Prediction . Masked Language Model ( MLM ) Đầu tiên , 15 % số từ trong một chuỗi sẽ được thay thế bằng [ MASK ] , sau đó được",
@@ -615,7 +674,8 @@
         49
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "60"
   },
   {
     "text": "Kết hợp manifold learning vào Contrastive Learning : Như đã nói từ trước , việc kết hợp manifold learning vào CL dựa trên ý tưởng thuật toán LLE . Cách",
@@ -629,12 +689,14 @@
         144
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "61"
   },
   {
     "text": "hiểu về phân phối population : Giả sử có một tập gồm D văn bản được đánh số từ 1 đến D , thực hiện D lần lấy mẫu có hoàn lại trong tập này , kết quả thu được",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "62"
   },
   {
     "text": "Nội dung Impression ID",
@@ -644,12 +706,14 @@
         22
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "63"
   },
   {
     "text": "trong quá trình huấn luyện , hàm Attention được tính bởi : 𝐴𝑡𝑡𝑒𝑛𝑡𝑖𝑜𝑛 ( 𝑄 , 𝐾 , 𝑉 ) = 𝑠𝑜𝑓𝑡𝑚𝑎𝑥 ( 𝑄𝐾 𝑇",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "64"
   },
   {
     "text": "a . Kiến trúc cho thử nghiệm Split MNIST , b . Kiến trúc cho thử nghiệm Split CIFAR100 và Split CIFAR10 / 100 , trong đó k là kích thước bộ lọc , c là số kênh đầu ra , s",
@@ -667,7 +731,8 @@
         109
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "65"
   },
   {
     "text": "gốc trong cả quá trình học , và khi kết quả đến hội tụ sau 500 epoch , các phương pháp LCL cho kết quả nhỉnh hơn so với SimCLR khoảng 1 % độ chính xác trên tập Đồ án tốt nghiệp",
@@ -681,7 +746,8 @@
         126
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "66"
   },
   {
     "text": "Kết luận Những đóng góp chính của đồ án Xuất phát từ bài toán thực tế từ dữ liệu , SSL là một hướng nghiên cứu đang",
@@ -691,7 +757,8 @@
         86
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "67"
   },
   {
     "text": "Phiên mã là bước đầu tiên trong việc chuyển thông tin di truyền từ DNA thành tính trạng . Các DNA vốn ở dạng mạch xoắn kép sẽ được tháo xoắn và tách thành hai mạch",
@@ -705,7 +772,8 @@
         97
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "68"
   },
   {
     "text": "Đối với từng tác vụ riêng biệt , ALV cũng cho thấy khả năng vượt trội của mình hơn hai trường hợp cùng được đánh giá .",
@@ -715,12 +783,14 @@
         36
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "69"
   },
   {
     "text": "Đầu ra : Tập các tâm cụm { 𝜇1 , 𝜇2 , … , 𝜇𝐾 } ; 𝜇𝑘 ∈ ℝ𝑀 ; tập nhãn ứng với từng quan 1 nếu 𝑥𝑛 thuộc cụm 𝑘",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "70"
   },
   {
     "text": "bản d và fj là số văn bản chứa từ j . Khi đó LSI sử dụng phương pháp phân tích giá trị riêng ( cụ thể hơn là truncated Single Value Decomposition ) , để tìm ra",
@@ -730,7 +800,8 @@
         48
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "71"
   },
   {
     "text": "tập dữ liệu đầu vào , ANN thường sẽ cần học lại từ đầu để có thể thích nghi với dữ liệu mới đó và tránh hiện tượng quên nghiêm trọng ( Catastrophic Forgetting ) [ 3 ] . Hiện tượng này xảy ra khi tham số học được từ dữ liệu cũ của mạng không phù hợp",
@@ -740,7 +811,8 @@
         25
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "72"
   },
   {
     "text": "thức PT 2.21 28",
@@ -750,12 +822,14 @@
         7
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "73"
   },
   {
     "text": "quên của mô hình trên tác vụ 1 sau khi học xong tác vụ 2 : F1 = L1 ( w2 ∗ ) − L1 ( w1∗ ) 1",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "74"
   },
   {
     "text": "khác nhau và cập nhật một cách riêng biệt ( hình 16a ) hoặc không cần đến hai mạng encoder mà chỉ cần sample từ một memory bank để lấy negative ( hình 16b ) . Tuy nhiên , cách làm của MOCO là sử dụng một từ điển hoạt động như hàng đợi",
@@ -765,7 +839,8 @@
         188
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "75"
   },
   {
     "text": "Giữ lại thông tin là chưa đủ : Tuy nhiên , việc chỉ giữ nhiều thông tin nhất từ đầu vào có thể dẫn đến những điểm yếu làm cho biểu diễn ẩn mà mạng AE học ra",
@@ -775,7 +850,8 @@
         149
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "76"
   },
   {
     "text": "lớn về mặt tính toán , cụ thể các mô hình CL thường muốn có kích thước batch lớn để tăng được số mẫu negative . Trong một số phương pháp khác , việc phải",
@@ -785,7 +861,8 @@
         44
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "77"
   },
   {
     "text": "30 Hình 4 . 1 Biểu đồ ROC Trong đó :",
@@ -795,7 +872,8 @@
         25
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "78"
   },
   {
     "text": "lý . Đặc biệt là loại văn bản trên web có lẫn các HTML tag , code JS , đó chính là nhiễu . Tiền xử lý được xây dựng trên 4 bước :",
@@ -809,7 +887,8 @@
         68
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "79"
   },
   {
     "text": "Từ tập các vector thu được ở bước một ta đưa qua các CNN block đưa ra vector biểu diễn cho câu . Module 3 ( pair module ) : Sử dụng các cơ chế attention , label embeddings , connective",
@@ -819,7 +898,8 @@
         56
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "80"
   },
   {
     "text": "áp dụng hướng nghiên cứu SSL trong các lĩnh vực trên mà sẽ chỉ hướng đến việc đi sâu vào trọng tâm một vài phương pháp rất mới trong SSL và tìm cách để cải thiện các phương pháp đó theo một tư duy mới .",
@@ -833,7 +913,8 @@
         136
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "81"
   },
   {
     "text": "thay đổi bất thường của dữ liệu dòng , đặc biệt là concept drift . Tuy nhiên chúng ta có thể thấy phương pháp học của HPP là khá phức tạp , đặc biệt với những",
@@ -843,7 +924,8 @@
         121
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "82"
   },
   {
     "text": "và mở rộng sâu hơn nữa cho nhiều mô hình khác của CL . Đồ án tốt nghiệp 7",
@@ -853,12 +935,14 @@
         52
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "83"
   },
   {
     "text": "t này được đưa qua một hàm chuyển đổi Θ̃ = f ( Θt π t ) . Hàm chuyển đổi f này",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "84"
   },
   {
     "text": "4 . Các thuật toán regularization : Ridge Regression , Least Absolute Shrinkage and Selection Operator ( LASSO ) , Least-Angle Regression ( LARS ) , . . . 12",
@@ -872,7 +956,8 @@
         144
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "85"
   },
   {
     "text": "các thử nghiệm . Các thử nghiệm được thực hiện trên bộ dữ liệu chuẩn Penn Discourse Treebank ( PDTB ) .",
@@ -882,7 +967,8 @@
         99
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "86"
   },
   {
     "text": "– Tất nhiên , mô hình vẫn chưa giải quyết được vấn đề cold start Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT 34",
@@ -892,7 +978,8 @@
         139
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "87"
   },
   {
     "text": "4 . 2 Độ đo WER Độ đo được sử dụng cho bước nhận dạng văn bản là Word Error Rate ( WER ) .",
@@ -906,7 +993,8 @@
         86
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "88"
   },
   {
     "text": "dữ liệu khi đã biết tham số mô hình được định nghĩa : L ( θ ) = p ( D | θ ) . Khi đó ước lượng hợp lý cực đại ( Maximum Likelihood estimator , MLE ) tìm ra tham số θM LE",
@@ -921,7 +1009,8 @@
         85,
         109
       ]
-    ]
+    ],
+    "ID": "89"
   },
   {
     "text": "i=1 Phương pháp đề xuất bởi đồ án được đặt tên là VBD - CL . VBD - CL được so sánh",
@@ -935,12 +1024,14 @@
         69
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "90"
   },
   {
     "text": "điểm mạnh và hạn chế riêng . Ở phần này , em xin tiến hành thử nghiệm , đánh giá với những mục tiêu sau :",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "91"
   },
   {
     "text": "Bảng 0 .5 Tham số tốt nhất cho Split Omniglot EWC",
@@ -950,7 +1041,8 @@
         49
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "92"
   },
   {
     "text": "- Cung cấp một nền tảng lý tưởng , cho phép cung cấp tích hợp các kỹ thuật hiện đại như mô hình thiết kế hướng đối tượng , hệ chuyên gia , hệ thông tin địa lý ( GIS ) .",
@@ -965,7 +1057,8 @@
         139,
         158
       ]
-    ]
+    ],
+    "ID": "93"
   },
   {
     "text": "hình 31 : ACD ca sử dụng đăng bài tuyển dụng 3.4 .11 . Xem các bài tuyển dụng đã đăng",
@@ -975,12 +1068,14 @@
         13
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "94"
   },
   {
     "text": "• Ảnh màu : Là ảnh được tổ hợp từ 3 màu cơ bản đỏ ( R ) , lục ( G ) , lơ ( B ) theo lý thuyết của Thomas . Ảnh màu thường được thu nhận trên các dải băng tần khác",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "95"
   },
   {
     "text": "Tác v 10 VBD - CL UCL",
@@ -994,17 +1089,20 @@
         21
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "96"
   },
   {
     "text": "Bayes , ta cần xấp xỉ phân phối hậu nghiệm p ( E | D , γ ) bằng phân phối biến phân qφ ( E ) . Một lựa chọn phổ biến cho phân phối biến phân là tuân theo phân phối",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "97"
   },
   {
     "text": "ẩn có dạng : k X",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "98"
   },
   {
     "text": "( 𝜃𝑗 − 𝜃𝑡−1,𝑗 2 Đối với việc áp dụng cho EWC do chỉ sử dụng mạng nơ-ron nhân tạo kết nối",
@@ -1014,7 +1112,8 @@
         44
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "99"
   },
   {
     "text": "viên tiềm năng 2 – Hệ thống sẽ gửi lại thông tin của ứng viên 3 – NTD chọn vào mục thao tác trên 1 hồ sơ",
@@ -1024,7 +1123,8 @@
         69
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "100"
   },
   {
     "text": "bằng cách lấy kì vọng của phân phối biến phân tương ứng ( với phân phối Dir , kỳ vọng chính là giá trị trung bình của tham số ) , cụ thể : • Với mỗi văn bản d = 1 , ... , D : θ̂dk ∝ γdk ( chuẩn hóa vectơ K chiều γd )",
@@ -1034,12 +1134,14 @@
         75
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "101"
   },
   {
     "text": "trên toàn bộ dữ liệu sẽ được xấp xỉ bằng ước lượng Monte Carlo trên tập con gồm 𝑁 ( 𝑚 )",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "102"
   },
   {
     "text": "công việc của VD [ 11 ] . Công việc của đồ án sẽ mượn ý tưởng của VD và áp dụng cho bài toán Học liên tục bằng việc bổ sung thành phần tham số cục bộ tương tự như ý tưởng thêm",
@@ -1053,7 +1155,8 @@
         68
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "103"
   },
   {
     "text": "Lấy ví dụ một banner nằm ở vị trí zone 2 có thể hay được click hơn so với khi đặt ở vị trí Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT",
@@ -1063,7 +1166,8 @@
         165
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "104"
   },
   {
     "text": "để xấp xỉ cho phân phối thực của 𝑠 khi đã biết dữ liệu . Trong công việc hiện tại để thuận tiện tính toán , phương pháp GMF được sử dụng để lựa chọn cho 𝑞 ( 𝑠 ) , trong",
@@ -1073,7 +1177,8 @@
         123
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "105"
   },
   {
     "text": "Augmentation ( DA ) vào Decoder của mô hình DVAE và thay thế phép thêm nhiễu vào dữ liệu trước khi đưa vào mạng Encoder của mô hình . Các kết quả cho thấy sự",
@@ -1087,12 +1192,14 @@
         48
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "106"
   },
   {
     "text": "Cụ thể , trong bài Contrastive Multiview Coding ( ở [ TKI19 ] ) , bài báo đã nhìn một dữ liệu theo nhiều hướng chứ không phải hai hướng như thông thường . Tác",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "107"
   },
   {
     "text": "Sử dụng một cách làm đơn giản , làm nhiễu dữ liệu : Chỉ với hàm mất mát của AE truyền thông , bài báo đã chỉ ra rằng biểu diễn ẩn tìm ra không đủ khả",
@@ -1102,7 +1209,8 @@
         78
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "108"
   },
   {
     "text": "Như thể hiện ở hình 5 . 6 , VBD - CL nhìn chung có kết quả tốt hơn so với UCL và AGS - CL mặc dù có dao động lớn hơn ở một vài tác vụ . Điều này có thể do tri thức của tác vụ đó được lưu giữ ở các nơ-ron mà có độ quan",
@@ -1120,17 +1228,20 @@
         89
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "109"
   },
   {
     "text": "Sau khi quan sát được dữ liệu , các tham số này sẽ được học sao cho phù hợp với dữ liệu đó thông qua biểu diễn của xác suất hậu nghiệm 𝑝 ( 𝜃 | 𝐷 ) . Theo định lý Bayes , xác suất hậu nghiệm của tham số 𝜃 sau khi có dữ liệu D :",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "110"
   },
   {
     "text": "được một phân phối FD trên tập D văn bản này với : D 1 X",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "111"
   },
   {
     "text": "o Convolution Neural Network ( CNN ) : Xây dựng mô hình học CNN bậc từ tối ưu hiệu quả huấn luyện mô hình sử dụng Dropout o LSTM : Mô hình học triển khai LSTM hai chiều và một tầng Attention",
@@ -1152,7 +1263,8 @@
         158
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "112"
   },
   {
     "text": "3.2 Mô hình đề xuất Thay vì sử dụng mô hình dịch dựa trên LSTM giống như nghiên cứu gốc [ 19 ] , chúng tôi",
@@ -1162,7 +1274,8 @@
         62
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "113"
   },
   {
     "text": "Tham số 𝜆 trong công thức PT 2.12",
@@ -1172,12 +1285,14 @@
         28
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "114"
   },
   {
     "text": "truyền tiến được biểu diễn như sau : zi = W i hi−1 + bi hi = σ ( z i )",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "115"
   },
   {
     "text": "UCL , AGS - CL và VBD - CL . AGS - CL có xu hướng học tương tự như ở tập Split CIFAR100 , còn UCL mềm dẻo hơn khi có có những tác vụ cải thiện được độ chính",
@@ -1207,17 +1322,20 @@
         97
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "116"
   },
   {
     "text": "Hình 7 : Tăng kích thước đầu vào sử dụng Sub-pixel Convolutional Layer ( nguồn : [ 10 ] ) Trong hình 7 , xét tại lớp thứ ba , dữ liệu S đang có kích thước W × H × ( C × r 2 ) . f ( S ) có kích",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "117"
   },
   {
     "text": "xác suất , ta có hàm mất mát như sau : L=− R",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "118"
   },
   {
     "text": "Sinh viên thực hiện : Nguyễn Thế Linh - 20142585 Lớp CNTT 2. 03 – K59",
@@ -1227,7 +1345,8 @@
         57
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "119"
   },
   {
     "text": "chủ đề kinh doanh , thảm họa , tội phạm và chính trị và được lấy từ nhiều nguồn khác nhau bao gồm NYT ( USA ) , Reuters ( Europe ) , Xinhua ( China ) và tập KBP 2015 [ 2 ] . 32",
@@ -1245,7 +1364,8 @@
         160
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "120"
   },
   {
     "text": "Chuyên ngành : Hệ thống thông tin Giảng viên hướng dẫn : PGS. TS. Thân Quang Khoát",
@@ -1259,7 +1379,8 @@
         65
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "121"
   },
   {
     "text": "danh của người dùng và item làm đầu vào của mô hình , ITE - onehot cũng gặp phải vấn đề cold start . 4 . 2 Mô hình ITE - item _ pcat",
@@ -1273,7 +1394,8 @@
         66
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "122"
   },
   {
     "text": "Tương tự các nghiên cứu trước em sử dụng phương pháp chia dữ liệu PDTB - Ji . Với cài đặt này em sử dụng 5",
@@ -1283,7 +1405,8 @@
         70
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "123"
   },
   {
     "text": "Hình 2 . 2 Các dạng bài toán RNN [ 5 ] Hình 2 . 2 cho thấy các dạng bài toán RNN như sau :  One to one : mẫu bài toán cho mạng nơ-ron thần kinh ( NN ) và mạng nơron tích chập ( CNN ) , 1 đầu vào và 1 đầu ra , ví dụ với bài toán phân loại",
@@ -1314,7 +1437,8 @@
         155,
         175
       ]
-    ]
+    ],
+    "ID": "124"
   },
   {
     "text": "2 . Mục đích nội dung của ĐATN Tìm hiểu áp dụng các phương pháp và kỹ thuật về xử lý ngôn ngữ tự nhiên và học sâu cho bài toán nhận dạng quan hệ ẩn giữa hai câu với dữ liệu Penn Discourse Treebank nhằm cải thiện",
@@ -1324,7 +1448,8 @@
         30
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "125"
   },
   {
     "text": "In Advances in neural information processing systems , pages 1153 – 1161 , 2015 . Sinh viên thực hiện : Nguyễn Văn Sơn , 20143863 , K59 , Lớp KSTN - CNTT",
@@ -1334,17 +1459,20 @@
         153
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "126"
   },
   {
     "text": "Khi cố định Q , việc tối ưu P được đưa về bài toán tối ưu hàm N 1 X X",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "127"
   },
   {
     "text": "hàm Digamma Γ hàm Gamma",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "128"
   },
   {
     "text": "Hàm mất mát dùng để thực hiện nhiệm vụ phân loại . Với một batch N dữ liệu đầu vào ta được 2N view sau khi đi qua các phép DA , thông qua hàm mất",
@@ -1354,7 +1482,8 @@
         125
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "129"
   },
   {
     "text": "Tuy nhiên , các mô hình này lại bỏ qua sự liên kết giữa các từ nối với quan hệ giữa hai câu . Cụ thể , với tập dữ liệu PDTB",
@@ -1364,12 +1493,14 @@
         123
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "130"
   },
   {
     "text": "hình sao cho xác suất dự đoán các Positive Samples là cao hơn . Cụ thể , xác suất mỗi bài báo được User quan tâm là 𝑦 + , xác suất dự đoán K bài không được User đó quan tâm [ 𝑦1− , 𝑦2 − , . . . , 𝑦𝐾− ] , điểm số được tính bởi công thức :",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "131"
   },
   {
     "text": "kiến trúc mạng nơ-ron của các mô hình và công thức hàm dự đoán sẽ thể hiện cho tính thứ tự của hành vi tiềm ẩn và rõ ràng . 4.1 Mô hình ITE- onehot",
@@ -1379,17 +1510,20 @@
         147
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "132"
   },
   {
     "text": "Tính chất của các phân phối Gamma :  E ( X ) = 𝛾𝑠ℎ𝑝",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "133"
   },
   {
     "text": "encoder , mô hình ngôn ngữ sẽ biến đổi chuỗi đầu vào x = ( x1 , x2 , . . . xn ) thành ma trận Z = W + P trong đó W = ( w2 , f w2 , . . . , wn ) là ma trận các vector embedding thuộc không gian Rf , P = ( p1 , p2 , . . . , pn ) là các ma trận các ánh xạ vị trí vào không gian Rf tương ứng",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "134"
   },
   {
     "text": "Để thống nhất với VD , p được chọn làm giá trị đại diện cho độ quan trọng của nơ-ron trong các phần trình bày phía dưới . Mỗi tác vụ , mô hình chỉ cần lưu lại bộ",
@@ -1399,7 +1533,8 @@
         20
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "135"
   },
   {
     "text": "HAT 10 Tác v 10",
@@ -1409,7 +1544,8 @@
         3
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "136"
   },
   {
     "text": "[ log p(D|θ )] − KL ( qφ (θ ) | p (θ ) ) . Trong công thức biểu diễn ELBO 2. 14 , thành phần Eqφ (θ ) [ log p( D|θ ) ] chính là kỳ",
@@ -1419,7 +1555,8 @@
         73
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "137"
   },
   {
     "text": "có dạng tường minh ( PT 2.17 ) và thuận tiện cho việc tính toán , đạo hàm . Giải thuật của VCL được diễn giải trong Hình 2 . 3 .",
@@ -1433,7 +1570,8 @@
         94
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "138"
   },
   {
     "text": "ITE- onehot , ITE- item_pcat , ITE - user _ item _ pcat , NMTR và MTMF • So sánh các mô hình khi số thuộc tính ẩn k thay đổi",
@@ -1459,12 +1597,14 @@
         70
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "139"
   },
   {
     "text": "17 CHƯƠNG 3 . CÔNG VIỆC LIÊN QUAN",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "140"
   },
   {
     "text": "gọn hơn . Ngoài ra , mô hình hệ gợi ý dựa trên ý tưởng của mô hình BERT trong xử lý ngôn ngữ tự nhiên cũng cho kết quả tốt , mang nhiều ý nghĩa từ việc học",
@@ -1474,17 +1614,20 @@
         71
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "141"
   },
   {
     "text": "Đầu vào : Tập dữ liệu { 𝑥1 , 𝑥2 , … , 𝑥𝑁 } ; 𝑥𝑛 ∈ ℝ𝑀 ; số cụm K ( K < N ) . Đầu ra : Tập các tâm cụm { 𝜇1 , 𝜇2 , … , 𝜇𝐾 } ; 𝜇𝑘 ∈ ℝ𝑀 ; tập nhãn ứng với từng quan 28",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "142"
   },
   {
     "text": "Quá trình tính toán này được biểu diễn bởi công thức sau : QK T",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "143"
   },
   {
     "text": "đồ thị tích chập ( GCN ) vào phân loại văn bản , đồng thời đưa ra cải tiến bằng việc kết hợp mô hình này với mô hình chủ đề ( topic modeling ) để giải quyết bài toán phân loại văn bản .",
@@ -1494,7 +1637,8 @@
         22
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "144"
   },
   {
     "text": "cũng xét đến việc kết hợp nhiều loại DA khác nhau : 1 . Liên quan đến không gian : cropping , resizing , cutout , rotate",
@@ -1504,7 +1648,8 @@
         39
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "145"
   },
   {
     "text": "ích nhất , trong đó các ma trận ban đầu có thể đại diện cho một bức ảnh hoặc một câu . Để hiểu rõ hơn ta lấy ví dụ : Hình 1 : Cơ chế nhân chập trong CNN",
@@ -1514,7 +1659,8 @@
         152
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "146"
   },
   {
     "text": "mô hình của ALV . b . Kết quả thử nghiệm trên Split CIFAR100 : Hình 4 . 8 đưa ra kết quả thử nghiệm trên bộ dữ liệu Split CIFAR100 của các",
@@ -1532,7 +1678,8 @@
         130
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "147"
   },
   {
     "text": "Số điện thoại : 037 9696 690 Lớp : KHMT. 02 – K62 Mã số sinh viên : 20173264",
@@ -1542,7 +1689,8 @@
         39
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "148"
   },
   {
     "text": "tố nhiễu vào trong bức ảnh . Trong khi đó , như mô tả bên trên , sự khác biệt giữa Variational Autoencoder ( VAE ) và mô hình Autoencoder gốc nằm ở việc xử lý đầu",
@@ -1552,7 +1700,8 @@
         112
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "149"
   },
   {
     "text": "Khác với 2 mô hình được giới thiệu trên , mô hình LSTUR được xây dựng dựa trên một số luận điểm cải thiện : -",
@@ -1562,7 +1711,8 @@
         55
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "150"
   },
   {
     "text": "• số thuộc tính ẩn k ( number factors ) : số thuộc tính trong tầng ẩn cuối cùng của hai mô hình con GMF và MLP ( xem lại Hình 8 ) . Đối với mô hình",
@@ -1576,7 +1726,8 @@
         110
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "151"
   },
   {
     "text": "phối mà VAE sử dụng để xấp xỉ phân phối hậu nghiệm . Đứng trước giả thuyết này , mô hình Denoising Variational Autoencoder ( DVAE ) đã được sủ dụng nhằm nâng cao khả năng xấp xỉ xác suất của mô hình dữ liệu gốc",
@@ -1590,7 +1741,8 @@
         129
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "152"
   },
   {
     "text": "dữ liệu tương tác , từ đó cải thiện chất lượng gợi ý hay không ? Sinh viên thực hiện : Nguyễn Trọng Nhật , 20143316 , K59 , Lớp KSTN - CNTT 38",
@@ -1600,7 +1752,8 @@
         139
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "153"
   },
   {
     "text": "‘ polynomial ’ . 24 Em chọn LinearSVC ( nhân linear ) để tuning và so sánh với mô hình học HAN .",
@@ -1614,7 +1767,8 @@
         94
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "154"
   },
   {
     "text": "đều có thể tạo ra được tương tự từ việc sử dụng phép DA random cropping ( giải thích ở hình 13 , với hình nét liền là bức ảnh ban đầu còn hình nét chấm là các phần ảnh bị crop một cách ngẫu nhiên , tạo thành 2 pretext task tương tự với các",
@@ -1624,12 +1778,14 @@
         55
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "155"
   },
   {
     "text": "Sinh viên thực hiện Lê Hải Nam MỤC LỤC",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "156"
   },
   {
     "text": "quan qua Hình 2 . 2 . Hình 2 . 2 Ý tưởng trực quan của EWC . Nguồn [ 1 ] .",
@@ -1639,16 +1795,19 @@
         58
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "157"
   },
   {
     "text": "[ ∇ log p( x, y | θ ) ∇ log p ( x , y |θ)T ] ( 3.2 ) Với Pxy là phân phối mô hình học được từ D = { x, y} tuân theo phân phối thực",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "158"
   },
   {
     "text": "𝑠 ( 𝑢 , 𝑒𝑥 ) = 𝑢𝑇 𝑒𝑥 Quá trình huấn luyện được kế thừa cách lấy mẫu được giới thiệu bởi [ 9 ] và [ 13 ] , với mỗi bài báo được click ( Positive Sample ) , lấy ngẫu nhiên K bài báo không",
     "acronyms": [],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "159"
   }
 ]

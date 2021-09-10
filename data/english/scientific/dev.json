@@ -12,7 +12,8 @@
         144,
         160
       ]
-    ]
+    ],
+    "ID": "1"
   },
   {
     "text": "WebDict 0.2919 Backoff 0.3282 Table 1: Mean Average Precision (MAP), averaged over 34 topics",
@@ -27,7 +28,8 @@
         39,
         61
       ]
-    ]
+    ],
+    "ID": "2"
   },
   {
     "text": "Baselines are a unigram query likelihood (QL) model (bag of words) and a highly effective sequential dependence (SD) variant of the Markov random field (MRF) model (Metzler and Croft,",
@@ -54,7 +56,8 @@
         132,
         151
       ]
-    ]
+    ],
+    "ID": "3"
   },
   {
     "text": "tion. Then, we extract expansion terms from these clusters using pseudo relevance feedback (PRF) as implemented in Terrier.",
@@ -69,7 +72,8 @@
         65,
         90
       ]
-    ]
+    ],
+    "ID": "4"
   },
   {
     "text": "person, mood, voice and case, CATiB uses 6 POS tags: NOM (non-proper nominals including nouns, pronouns, adjectives and adverbs), PROP (proper nouns), VRB (verbs), VRB-PASS (passive-voice",
@@ -108,7 +112,8 @@
         156,
         161
       ]
-    ]
+    ],
+    "ID": "5"
   },
   {
     "text": "(LDA), Maximum Likelihood Linear Transform (MLLT), Boosted Maximum Mutual Information (BMMI), Minimum Phone Error (MPE). It pro-",
@@ -139,7 +144,8 @@
         51,
         85
       ]
-    ]
+    ],
+    "ID": "6"
   },
   {
     "text": "gold label (Section 3). Our algorithm is called The Structured Weighted Violations Perceptron (SWVP) as its update rule is based on a weighted sum of up-",
@@ -154,7 +160,8 @@
         52,
         93
       ]
-    ]
+    ],
+    "ID": "7"
   },
   {
     "text": "phrase markers or words. For simplicity of manipulation but without loss of general-  ity, we will limit the productions to the Chomsky Normal Form (CNF). That is, only ",
@@ -169,7 +176,8 @@
         128,
         147
       ]
-    ]
+    ],
+    "ID": "8"
   },
   {
     "text": " When a CFG is associated with probabilistic information, as in a Probabilistic CFG (PCFG), it can be interesting to process only the n most likely",
@@ -188,7 +196,8 @@
         66,
         83
       ]
-    ]
+    ],
+    "ID": "9"
   },
   {
     "text": "1] proposed a language-neutral framework for representing semantic tense. This framework is called the Language Neutral Syntax (LNS). Based on ",
@@ -203,7 +212,8 @@
         103,
         126
       ]
-    ]
+    ],
+    "ID": "10"
   },
   {
     "text": "12 Base+FrameNet (FN) 61.8 71.9 66.5 59.8 69.3 64.2 53.5 60.0 56.6 51.1 57.9 54.3 13 Base+Verb Pairs (VP) 62.1 72.2 66.8 60.1 69.3 64.4 54.4 60.1 57.1 51.9 58.2 54.9 14 Base+Appositives (AP) 63.1 71.7 67.1 60.5 69.4 64.6 54.1 60.1 56.9 51.9 57.8 54.7 Table 1: Results obtained by applying different types of features in isolation to the Baseline system.",
@@ -234,7 +244,8 @@
         90,
         99
       ]
-    ]
+    ],
+    "ID": "11"
   },
   {
     "text": "Model 3 (Figure 3) illustrates how the source language text and MT component may be replaced by a natural language generation (NLG) system, given a rich enough semantic representation.",
@@ -253,7 +264,8 @@
         98,
         125
       ]
-    ]
+    ],
+    "ID": "12"
   },
   {
     "text": "in the V column indicates that the verb conditions were used in the distance measure. LR = labeled recall; LP = labeled precision.",
@@ -276,7 +288,8 @@
         112,
         129
       ]
-    ]
+    ],
+    "ID": "13"
   },
   {
     "text": "The big blue door.?  In this case, the GrM asks  the Response Planner (RP) to provide an elaboration for the current UU; the RP generates this ",
@@ -303,7 +316,8 @@
         53,
         69
       ]
-    ]
+    ],
+    "ID": "14"
   },
   {
     "text": "TI = terse information  INT = interrupted  TRUN = truncated  TRANS = transposed sentence (discussed in ",
@@ -342,7 +356,8 @@
         69,
         79
       ]
-    ]
+    ],
+    "ID": "15"
   },
   {
     "text": "classes in both original text and main text corpora.  chose Support Vector Machines (SVM) because it has been shown by other researchers in AGI",
@@ -361,7 +376,8 @@
         60,
         83
       ]
-    ]
+    ],
+    "ID": "16"
   },
   {
     "text": "as in figure 3.  It is parsed as an adverb (AA), whereas it should be a verb group (VG).",
@@ -384,7 +400,8 @@
         72,
         82
       ]
-    ]
+    ],
+    "ID": "17"
   },
   {
     "text": "can develop after exposure to a terrifying event.  Q-based Union PTSD (posttraumatic stress disorder) is a psychological disorder caused by a mental trauma (also called psychotrauma) that can develop after exposure to a terrifying event.",
@@ -399,7 +416,8 @@
         71,
         100
       ]
-    ]
+    ],
+    "ID": "18"
   },
   {
     "text": "It allows for testing interaction scenarios that employ one or more Language Technology Components (LTC). ",
@@ -414,7 +432,8 @@
         68,
         98
       ]
-    ]
+    ],
+    "ID": "19"
   },
   {
     "text": "Feature Description lexical the words of the product attribute(PA) the POS for each word of the PA",
@@ -437,7 +456,8 @@
         45,
         61
       ]
-    ]
+    ],
+    "ID": "20"
   },
   {
     "text": " The tagging has been done using a GUI-based tool  called the Discourse Tagging Tool (DTTool) ac-  cording to \"The Discourse Tagging Guidelines\" we ",
@@ -456,7 +476,8 @@
         62,
         84
       ]
-    ]
+    ],
+    "ID": "21"
   },
   {
     "text": "Och and Ney (2003) show that for larger corpora, using word classes leads to lower Alignment Error Rate (AER). This is not",
@@ -471,7 +492,8 @@
         83,
         103
       ]
-    ]
+    ],
+    "ID": "22"
   },
   {
     "text": "2 Relation Extraction System In this section, we describe the features used in our basic relation extraction (RE) system. Given",
@@ -486,7 +508,8 @@
         89,
         108
       ]
-    ]
+    ],
+    "ID": "23"
   },
   {
     "text": "target question, or zero if the target question was not found. The Mean Reciprocal Rank (MRR) is the mean of the reciprocal ranks over all the input ques-",
@@ -501,7 +524,8 @@
         67,
         87
       ]
-    ]
+    ],
+    "ID": "24"
   },
   {
     "text": "discussion in Ritchie(1984).  Functional unification (FU) grammar is a  grammatical formalism which allows descriptions of ",
@@ -516,7 +540,8 @@
         30,
         52
       ]
-    ]
+    ],
+    "ID": "25"
   },
   {
     "text": "Bigram Perplex. ( PP) MDI Missed Samples (MS) Bigram Missed Samples (MS)",
@@ -551,7 +576,8 @@
         53,
         67
       ]
-    ]
+    ],
+    "ID": "26"
   },
   {
     "text": "networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). ",
@@ -570,7 +596,8 @@
         51,
         90
       ]
-    ]
+    ],
+    "ID": "27"
   },
   {
     "text": "Therefore, identification methods like Tsuchiya et al (2006) which uses Support Vector Machines(SVM) have been proposed to solve this problem.",
@@ -585,7 +612,8 @@
         72,
         94
       ]
-    ]
+    ],
+    "ID": "28"
   },
   {
     "text": "domain-independent mpirical induction algorithm. We test this idea by examining the  machine learning of simple Sound Pattern of English (SPE)-style phonological rules  (Chomsky and Halle 1968), beginning by representing phonological rules as finite- ",
@@ -600,7 +628,8 @@
         112,
         136
       ]
-    ]
+    ],
+    "ID": "29"
   },
   {
     "text": "ents) *100%  ? F1-score = 2*P*R / (P+R)  Two correctness criteria are used for constitu-",
@@ -615,7 +644,8 @@
         26,
         31
       ]
-    ]
+    ],
+    "ID": "30"
   },
   {
     "text": " 4 Corpus description The GRN corpus is a set of 201 sentences selected from PubMed abstracts, which are  mainly about the sporulation phenomenon in Bacillus subtilis. This corpus is an extended version of the LLL and BI (BioNLP-ST?11) corpora. The additional sentences ensure a better coverage of the description of the sporulation.",
@@ -642,7 +672,8 @@
         222,
         228
       ]
-    ]
+    ],
+    "ID": "31"
   },
   {
     "text": "The DlmSum Summarization Clientprovldes a sum-  mary of a document in multiple dlmeuslons through  a graphical user interface (GUI) to smt dflferent  users' needs In contrast o a static view of a doc- ",
@@ -657,7 +688,8 @@
         101,
         125
       ]
-    ]
+    ],
+    "ID": "32"
   },
   {
     "text": "is encoded in the attributes MODALITY and POLARITY. Modality at the syntactic level is encoded as an attribute of the tag SLINK (Subordination Link), which can have several values: factive, counterfactive, evidential, negative evidential, modal,",
@@ -672,7 +704,8 @@
         129,
         147
       ]
-    ]
+    ],
+    "ID": "33"
   },
   {
     "text": "So, the  first matrix (with the data from IBL trained with Encoding 1) shows in its upper row  the classification of the words that have final stress (FIN). It appears that the classifier ",
@@ -691,7 +724,8 @@
         137,
         142
       ]
-    ]
+    ],
+    "ID": "34"
   },
   {
     "text": "stream. In Proceedings of the 26th Conference on Uncertainty in Artificial Intelligence (UAI), 20?29. ",
@@ -706,7 +740,8 @@
         49,
         87
       ]
-    ]
+    ],
+    "ID": "35"
   },
   {
     "text": "We propose a method to solve this problem, which also results in a new topic model, called AKL (Automated Knowledge LDA), whose inference can exploit the automatically learned",
@@ -721,7 +756,8 @@
         96,
         119
       ]
-    ]
+    ],
+    "ID": "36"
   },
   {
     "text": "lated work. We then introduce Markov logic and our Markov Logic Network (MLN) for joint bio-event extraction.",
@@ -736,7 +772,8 @@
         51,
         71
       ]
-    ]
+    ],
+    "ID": "37"
   },
   {
     "text": " We explore how to utilize the source-language test corpus for adapting the language model (LM) and the translation model (TM).",
@@ -759,7 +796,8 @@
         104,
         121
       ]
-    ]
+    ],
+    "ID": "38"
   },
   {
     "text": "INAN=inanimate NP, ANIM=animate NP, VBZ--inflected  main verb, IS=is, VBG=gerund, PP=prepositional phrase,  TO=to (prep.), ONmon (prep.).",
@@ -826,7 +864,8 @@
         85,
         105
       ]
-    ]
+    ],
+    "ID": "39"
   },
   {
     "text": "and WLLR in this paper.  3.3 Information Gain (IG)  IG measures the number of bits of information ",
@@ -849,7 +888,8 @@
         29,
         45
       ]
-    ]
+    ],
+    "ID": "40"
   },
   {
     "text": "Three query tasks were defined in TREC-2003 and TREC-2004 web track, which are home page finding (HP), named page finding (NP) and topic distillation (TD) (Voorhees, 2003; Voorhees, 2004).",
@@ -888,7 +928,8 @@
         131,
         149
       ]
-    ]
+    ],
+    "ID": "41"
   },
   {
     "text": "329 Figure 1: The different structures (left: constituency trees, right: predicate argument structure) derived from Sentence (1) for the opinion holder candidate Malaysia used as input for convolution kernels (CK). ",
@@ -903,7 +944,8 @@
         189,
         208
       ]
-    ]
+    ],
+    "ID": "42"
   },
   {
     "text": "There are two other threads of research literature relevant to our work. Named entity (NE) extraction attempts to identify entities of interest",
@@ -918,7 +960,8 @@
         73,
         85
       ]
-    ]
+    ],
+    "ID": "43"
   },
   {
     "text": "Eat_On_Time? Theme 3.3 Planning for Linguistic Variation Sentences generated by Picture Books vary in length and word complexity according to the user?s age. The variation in length is handled by specificity character goals (SCG) that are ap-pended as supporting details to their respective character goals. SCGs are designed so that their existence will give more detail to the preceding character goal while ensuring consistency, and that their non-existence will still make the story complete.",
@@ -937,7 +980,8 @@
         196,
         223
       ]
-    ]
+    ],
+    "ID": "44"
   },
   {
     "text": "correct class of an item from its context. The Maximum Entropy (MaxEnt) framework is especially suited for integrating evidence from var-",
@@ -952,7 +996,8 @@
         47,
         62
       ]
-    ]
+    ],
+    "ID": "45"
   },
   {
     "text": " and  As for perceptron criterion, we employ the  average perceptron (AvgP) (Freund and  Sc",
@@ -967,7 +1012,8 @@
         50,
         68
       ]
-    ]
+    ],
+    "ID": "46"
   },
   {
     "text": "               XOAJC + LC*Ave(XOAJC)/Ave(XOAR)  The second strategy consists in building a prediction model for BLAST bit score (BBS) using the  XOA score and the log-cosine LC as predictors ",
@@ -1006,7 +1052,8 @@
         112,
         127
       ]
-    ]
+    ],
+    "ID": "47"
   },
   {
     "text": "22M 35.88 27.16 30.20 36.21 27.26 30.48 -0.33 -0.10 -0.28 Table 2: BLEU Score results for the Spanish Treelet Penalty experiments EX Treelet Phrasal Diff (T-P) Req Log WMT 2009 WMT 2010 Req Log WMT 2009 WMT 2010 Req Log WMT 2009 WMT 2010",
@@ -1049,7 +1096,8 @@
         133,
         148
       ]
-    ]
+    ],
+    "ID": "48"
   },
   {
     "text": "Third Order Parser 93.07 20 hrs Quadratic Kernel(QK) 93.41 6 hrs Biquadratic Kernel(BK) 93.45 6 hrs 8-th Degree Polynomial Kernel(8K) 93.27 6 hrs",
@@ -1080,7 +1128,8 @@
         100,
         129
       ]
-    ]
+    ],
+    "ID": "49"
   },
   {
     "text": "mented in song sentiment classification, i.e. audiobased (AB) approach, knowledge-based (KB) approach and machine learning (ML) approach, in  which the latter two approaches are also referred to ",
@@ -1111,7 +1160,8 @@
         72,
         87
       ]
-    ]
+    ],
+    "ID": "50"
   },
   {
     "text": "standard measures such as AUC values. For each positive+unlabeled (PU) corpus used in our evaluation we randomly selected x% of the positive ex-",
@@ -1130,7 +1180,8 @@
         47,
         65
       ]
-    ]
+    ],
+    "ID": "51"
   },
   {
     "text": "3 Experimental Results and Discussion We conducted closed track experiments on the Hong Kong City University (CityU) corpus in The Second International Chinese Word Segmen-",
@@ -1145,7 +1196,8 @@
         93,
         108
       ]
-    ]
+    ],
+    "ID": "52"
   },
   {
     "text": "related to the segments bi and bj .  We obtain Dbest = argmaxD P (D|B) taking into all the combination of these probabilities.",
@@ -1160,7 +1212,8 @@
         47,
         52
       ]
-    ]
+    ],
+    "ID": "53"
   },
   {
     "text": "DOC system, and they observe a close correspondence.  We have employed Functional Grammar (FG) (c.f \\[6\\])  as a principal analysis tool to developing representations ",
@@ -1179,7 +1232,8 @@
         71,
         89
       ]
-    ]
+    ],
+    "ID": "54"
   },
   {
     "text": "to generate these features from the training data.  In the NE (named entities) feature ? PERSON?",
@@ -1198,7 +1252,8 @@
         63,
         77
       ]
-    ]
+    ],
+    "ID": "55"
   },
   {
     "text": "WSD, which rely on knowledge represented as  attribute-value vectors: C4.5 (decision-trees),  Naive Bayes and Support Vector Machine (SVM)1. ",
@@ -1217,7 +1272,8 @@
         110,
         132
       ]
-    ]
+    ],
+    "ID": "56"
   },
   {
     "text": "Intensional Allan Ramsay University of Manchester (UK) email: allan.ramsay@manchester.ac.uk",
@@ -1232,7 +1288,8 @@
         25,
         49
       ]
-    ]
+    ],
+    "ID": "57"
   },
   {
     "text": " 6 BC = Broadcast Conversations; BN = Broadcast News; CTS = Conversational Telephone Speech; NW = Newswire;",
@@ -1271,7 +1328,8 @@
         98,
         106
       ]
-    ]
+    ],
+    "ID": "58"
   },
   {
     "text": "3.1 Overview   Graph-based Representation  Attribute Relation Graph (ARG) (Tsai and Fu, 1979)  is used to represent information in our approach.",
@@ -1286,7 +1344,8 @@
         43,
         67
       ]
-    ]
+    ],
+    "ID": "59"
   },
   {
     "text": " Added to the usual space of local permutations defined by a low distortion limit (DL), this results in a linguistically informed definition of the search space",
@@ -1301,7 +1360,8 @@
         65,
         81
       ]
-    ]
+    ],
+    "ID": "60"
   },
   {
     "text": " 3.2 HL-MRFs for Tweet Stance Classification Finding the maximum a posteriori (MAP) state is a difficult discrete optimization problem and, in gen-",
@@ -1320,7 +1380,8 @@
         57,
         77
       ]
-    ]
+    ],
+    "ID": "61"
   },
   {
     "text": "1 Introduction Part-Of-Speech(POS) tagging is the essential basis of Natural language processing(NLP). It is the pro-",
@@ -1343,7 +1404,8 @@
         15,
         29
       ]
-    ]
+    ],
+    "ID": "62"
   },
   {
     "text": "We therefore use a different type of filter in order to detect these errors, which we call the Verb Arity Sampling Test (VAST). ",
@@ -1358,7 +1420,8 @@
         95,
         119
       ]
-    ]
+    ],
+    "ID": "63"
   },
   {
     "text": "that is as close as possible to the gold standard C. Most work on verb clustering has used the Fmeasure or the Rand Index (RI) (Rand, 1971) for evaluation, which rely on counting pairwise",
@@ -1373,7 +1436,8 @@
         111,
         121
       ]
-    ]
+    ],
+    "ID": "64"
   },
   {
     "text": "and test splits, and bias the results.  We trained a Support Vector Machine (SVM) for regression with RBF kernel using scikit-learn (Pe-",
@@ -1392,7 +1456,8 @@
         53,
         75
       ]
-    ]
+    ],
+    "ID": "65"
   },
   {
     "text": "Output (0 < x < 1)  Figure 3  Neural network architecture (DA = descriptor array of 20 items). ",
@@ -1407,7 +1472,8 @@
         64,
         80
       ]
-    ]
+    ],
+    "ID": "66"
   },
   {
     "text": "Extraction (from now on AVE) is performed with two approaches: a) Rule-based approaches apply Regular Expressions (RE) to map the words realizing a concept into a normalized value.",
@@ -1426,7 +1492,8 @@
         94,
         113
       ]
-    ]
+    ],
+    "ID": "67"
   },
   {
     "text": "to-fine n-Best Parsing and MaxEnt Discriminative Reranking Proceedings of the 43th Annual Meeting on Association for Computational Linguistics(ACL) 173?180.",
@@ -1441,7 +1508,8 @@
         101,
         141
       ]
-    ]
+    ],
+    "ID": "68"
   },
   {
     "text": "We annotate  the semantic roles for the 50 most frequent verbs in  the Quranic Arabic Dependency Treebank (QATB)  (Dukes and Buckwalter 2010).",
@@ -1456,7 +1524,8 @@
         71,
         105
       ]
-    ]
+    ],
+    "ID": "69"
   },
   {
     "text": "We parse each corpus sentence pair using the OpenCCG parser to yield a logical form (LF) as a semantic dependency graph with the gold-standard alignments projected",
@@ -1475,7 +1544,8 @@
         71,
         83
       ]
-    ]
+    ],
+    "ID": "70"
   },
   {
     "text": "WDS 0.931 [0.905, 0.958] 0.813 [0.738, 0.887] 0.872 R=Random; LR=LexRank; DR=DivRank; DR(p)=DivRank with Priors; CLR=C-LexRank; WDS=Word Distributional Similarity; C.I.=Confidence Interval",
@@ -1538,7 +1608,8 @@
         169,
         188
       ]
-    ]
+    ],
+    "ID": "71"
   },
   {
     "text": "(PART+), (e.g., +\u000b s+ will [future]). Most shallow is the class of conjunctions (CONJ+), (e.g., +  w+",
@@ -1557,7 +1628,8 @@
         67,
         79
       ]
-    ]
+    ],
+    "ID": "72"
   },
   {
     "text": "1 In t roduct ion   This paper deals with the discovery, representation,  and use of lexical rules (LRs) in the process of large-  scale semi-automatic computational lexicon acqui- ",
@@ -1572,7 +1644,8 @@
         85,
         98
       ]
-    ]
+    ],
+    "ID": "73"
   },
   {
     "text": ").  Rand Index (RI) (Rand, 1971) measures the percentage of decisions that are correct, penalizing false pos-",
@@ -1587,7 +1660,8 @@
         4,
         14
       ]
-    ]
+    ],
+    "ID": "74"
   },
   {
     "text": "uew stngc in the development toward a grammar and  style chc~ker can emerge: the organization of an  algorithmic on(foiled grammar (ALCOGRAM). The ",
@@ -1602,7 +1676,8 @@
         101,
         130
       ]
-    ]
+    ],
+    "ID": "75"
   },
   {
     "text": "Since many responses in ETLA are expected to  follow certain patterns, it is intuitive to construct  limited regular expressions (RegEx) to match gold  standard responses for candidates with high profi-",
@@ -1621,7 +1696,8 @@
         109,
         128
       ]
-    ]
+    ],
+    "ID": "76"
   },
   {
     "text": "advP Adverb phrase(ADVP)  punct Punctuation(,)  adjP Adjective phrase(ADJP)  OP  advP, np and/or pp ",
@@ -1664,7 +1740,8 @@
         5,
         18
       ]
-    ]
+    ],
+    "ID": "77"
   },
   {
     "text": "composition algorithms have been proposed in the meantime. Thus, Memory Efficient Tucker (MET) is available in Matlab Tensor Toolbox since Version",
@@ -1679,7 +1756,8 @@
         65,
         88
       ]
-    ]
+    ],
+    "ID": "78"
   },
   {
     "text": "tion probabilities in both directions, seven features for the lexicalized distortion model, a word and a phrase penalty and a target language model (LM). ",
@@ -1694,7 +1772,8 @@
         133,
         147
       ]
-    ]
+    ],
+    "ID": "79"
   },
   {
     "text": "AST = Adjectival Sta~ VST = Verb Stem  DET = Determine~ N-FLEX = Nominal Inflexion  NST = Noun Stem V-FLEX = Verbal Inflsxion  PRN = Pronoun A-FLEX = Adjectival Inflexion ",
@@ -1765,7 +1844,8 @@
         150,
         170
       ]
-    ]
+    ],
+    "ID": "80"
   },
   {
     "text": " 1 Introduction The use of Support Vector Machines (SVMs) in supervised learning frameworks is spreading",
@@ -1780,7 +1860,8 @@
         27,
         50
       ]
-    ]
+    ],
+    "ID": "81"
   },
   {
     "text": "We have tested our algorithms on both the handcoded tag set used in (Chen et al, 1999) and supertags extracted for Penn Treebank(PTB). On the",
@@ -1795,7 +1876,8 @@
         115,
         128
       ]
-    ]
+    ],
+    "ID": "82"
   },
   {
     "text": "non-standard token?s formation process.  Machine translation (MT) is another commonly chosen method for text normalization.",
@@ -1810,7 +1892,8 @@
         41,
         60
       ]
-    ]
+    ],
+    "ID": "83"
   },
   {
     "text": "y?i / _ + [+ANY] Features: VWL = vowel ANY = any char.",
@@ -1833,7 +1916,8 @@
         45,
         53
       ]
-    ]
+    ],
+    "ID": "84"
   },
   {
     "text": "The research systems were:  ? CANDIDE (IBM Research: French - English(FE)),  produced both FA and human-assisted (HA) outputs.",
@@ -1868,7 +1952,8 @@
         98,
         112
       ]
-    ]
+    ],
+    "ID": "85"
   },
   {
     "text": "An Organization for a Dictionary of Word Senses  3. A \"Sense Data Item\" (SDI) represents one distinct sense common to a set of wordq  and/or phrases.",
@@ -1883,7 +1968,8 @@
         55,
         70
       ]
-    ]
+    ],
+    "ID": "86"
   },
   {
     "text": "tion (Briscoe, 1994), more recently using rule-based filters (White and Rajkumar, 2008) in a combinatory categorial grammar (CCG). Our focus is specifically",
@@ -1898,7 +1984,8 @@
         93,
         123
       ]
-    ]
+    ],
+    "ID": "87"
   },
   {
     "text": "we annotate ? Chen? as the Agent (ARG0)  of the full predicate ?[",
@@ -1913,7 +2000,8 @@
         20,
         32
       ]
-    ]
+    ],
+    "ID": "88"
   },
   {
     "text": "Table 3: The configurations of our systems. The abbreviations in the last column mean  training set(TS) and validating set(VS) explaining in section 5.1. ",
@@ -1936,7 +2024,8 @@
         108,
         122
       ]
-    ]
+    ],
+    "ID": "89"
   },
   {
     "text": "  Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1804?1809, October 25-29, 2014, Doha, Qatar.",
@@ -1951,7 +2040,8 @@
         40,
         88
       ]
-    ]
+    ],
+    "ID": "90"
   },
   {
     "text": "1 Introduction Many text understanding applications, such as Question Answering (QA) and Information Extraction (IE), need to infer a target textual mean-",
@@ -1974,7 +2064,8 @@
         89,
         111
       ]
-    ]
+    ],
+    "ID": "91"
   },
   {
     "text": "Given query Q = (q1, ? ? ? , qL), for each document D, expected term frequencies (ETF) of all sub-strings Q[i,j] = (qi, ? ? ? ,",
@@ -1989,7 +2080,8 @@
         55,
         80
       ]
-    ]
+    ],
+    "ID": "92"
   },
   {
     "text": "whole of MARY = KMary>.  referent of MARY = Mary. ",
@@ -2012,7 +2104,8 @@
         17,
         21
       ]
-    ]
+    ],
+    "ID": "93"
   },
   {
     "text": "Abbreviations: Trig./Arg./Group./Modif.=event trigger detection/argument detection/argument grouping/modification detection, BI=Bioinformatician, NLP=Natural Language Processing researcher, CS=Computer scientist, CoreNLP=Stanford CoreNLP, Porter=Porter stemmer, Snowball=Snowball stemmer McCCJ=McClosky-Charniak-Johnson parser, LGP=Link Grammar Parser, SD=Stanford De-",
@@ -2059,7 +2152,8 @@
         294,
         319
       ]
-    ]
+    ],
+    "ID": "94"
   },
   {
     "text": "data are used to train a classifier, using any cost-sensitive classification (CSC) method (line 15). New pi",
@@ -2074,7 +2168,8 @@
         47,
         76
       ]
-    ]
+    ],
+    "ID": "95"
   },
   {
     "text": "Learning Summary Content Units with Topic Modeling Leonhard Hennig Ernesto William De Luca Distributed Artificial Intelligence Laboratory (DAI-Lab) Technische Universita?t Berlin",
@@ -2089,7 +2184,8 @@
         91,
         137
       ]
-    ]
+    ],
+    "ID": "96"
   },
   {
     "text": "analysis as discussed in the next section.  Analysis of Variance (ANOVA) tests were performed on the full 5 years for each sector, to com-",
@@ -2104,7 +2200,8 @@
         44,
         64
       ]
-    ]
+    ],
+    "ID": "97"
   },
   {
     "text": " Connectivity Strength Features provide two scores, Source Connectivity Strength (SCS) and Target Connectivity Strength (TCS).",
@@ -2127,7 +2224,8 @@
         91,
         119
       ]
-    ]
+    ],
+    "ID": "98"
   },
   {
     "text": "Since finding the optimal set of edges respecting transitivity is NP-hard, they employed Integer Linear Programming (ILP) to find the exact solution.",
@@ -2142,7 +2240,8 @@
         89,
         115
       ]
-    ]
+    ],
+    "ID": "99"
   },
   {
     "text": "The e-rater system TM ~ is an operational  automated essay scoring system, developed  at Educational Testing Service (ETS). The ",
@@ -2161,7 +2260,8 @@
         89,
         116
       ]
-    ]
+    ],
+    "ID": "100"
   },
   {
     "text": "mensionality reduction, such as Latent Semantic Analysis (LSA) in (Pad?o and Lapata, 2007) or Non-negative Matrix Factorization (NMF) (Zheng et al.,",
@@ -2184,7 +2284,8 @@
         32,
         56
       ]
-    ]
+    ],
+    "ID": "101"
   },
   {
     "text": "of the adjacency pair involving speaker B, we use four categories of features: structural, durational, lexical, and dialog act (DA) information. For the",
@@ -2199,7 +2300,8 @@
         116,
         126
       ]
-    ]
+    ],
+    "ID": "102"
   },
   {
     "text": " 3 Latent Semantic Analysis Latent Semantic Analysis (LSA) (Deerwester et al 1990) is a widely used continuous vector space",
@@ -2214,7 +2316,8 @@
         28,
         52
       ]
-    ]
+    ],
+    "ID": "103"
   },
   {
     "text": "2. Corpus Resource  This study uses the Switchboard Dialog Act (SWBD-DA)  Corpus as the corpus resource, which is available online ",
@@ -2229,7 +2332,8 @@
         40,
         62
       ]
-    ]
+    ],
+    "ID": "104"
   },
   {
     "text": "reflecting the distribution of the genres in the MTC (Zeyrek et al 2009). The main objective of the project is to annotate discourse connectives with their two arguments, modifiers and supplementary text spans. Following the Penn Discourse Tree Bank (PDTB), we take discourse connectives as discourse-level predicates taking two (and only  two) arguments, called Arg1 and Arg2, which may span one or more clauses and sentences that are adjacent or nonadjacent to the connective (Prasad et al 2007, Webber, 2004).",
@@ -2248,7 +2352,8 @@
         225,
         249
       ]
-    ]
+    ],
+    "ID": "105"
   },
   {
     "text": "data. The first is a parser trained on the standard training sections of the PennTreebank (PTB) and the second is a parser trained on the training por-",
@@ -2263,7 +2368,8 @@
         77,
         89
       ]
-    ]
+    ],
+    "ID": "106"
   },
   {
     "text": "query large amounts of data is a key requirement for data-driven dialog systems, in which the data is generated by the spoken dialog system (SDS) components (spoken language understanding (SLU), di-",
@@ -2286,7 +2392,8 @@
         158,
         187
       ]
-    ]
+    ],
+    "ID": "107"
   },
   {
     "text": "Ah receptor recognizes the B cell transcription factor, BSAP (b) Grf40 binds to linker for activation of T cells (LAT) (c)",
@@ -2305,7 +2412,8 @@
         80,
         106
       ]
-    ]
+    ],
+    "ID": "108"
   },
   {
     "text": "pendencies. Hochreiter and Schmidhuber (1997), thus proposed long short term memory (LSTMs), a variant of recurrent neural networks.",
@@ -2320,7 +2428,8 @@
         61,
         83
       ]
-    ]
+    ],
+    "ID": "109"
   },
   {
     "text": "the affect projection rules are useful. However, when we use automated coreference (ACoref), recall goes down and precision goes up.",
@@ -2335,7 +2444,8 @@
         61,
         82
       ]
-    ]
+    ],
+    "ID": "110"
   },
   {
     "text": "tion) strategies. All systems are evaluated according to their Mean Average Precision 6 (MAP) as computed by the trec eval software on the pre-",
@@ -2350,7 +2460,8 @@
         63,
         85
       ]
-    ]
+    ],
+    "ID": "111"
   },
   {
     "text": "HN=highly negative terms, N=negative, P=positive, HP=highly positive, INV=invertors, DIM=diminishers, INV=invertors. ",
@@ -2405,7 +2516,8 @@
         106,
         115
       ]
-    ]
+    ],
+    "ID": "112"
   },
   {
     "text": "4.1 Test Dataset The dataset used in our experiments comes from the Automated Student Assessment Prize (ASAP)1, which is sponsored by the William and Flora",
@@ -2420,7 +2532,8 @@
         68,
         102
       ]
-    ]
+    ],
+    "ID": "113"
   },
   {
     "text": " These are typically expressed in simple syntactic frames called subcategorization frames (SCFs). ",
@@ -2435,7 +2548,8 @@
         65,
         89
       ]
-    ]
+    ],
+    "ID": "114"
   },
   {
     "text": " 1 Introduction Assigning each word its most frequent sense (MFS) is commonly used as a baseline in Word Sense Dis-",
@@ -2450,7 +2564,8 @@
         40,
         59
       ]
-    ]
+    ],
+    "ID": "115"
   },
   {
     "text": "of CoNLL-2000 and LLL-2000, Lisbon, Portugal.  Tageszeitung (TAZ) Corpus. Contrapress Media GmbH.",
@@ -2477,7 +2592,8 @@
         47,
         59
       ]
-    ]
+    ],
+    "ID": "116"
   },
   {
     "text": "wisdom of crowds. Our approach is based on the Latent Mixture of Discriminative Experts (LMDE) model originally introduced for multimodal fu-",
@@ -2492,7 +2608,8 @@
         47,
         87
       ]
-    ]
+    ],
+    "ID": "117"
   },
   {
     "text": "In Proceedings of the 22nd International Conference on World Wide Web (WWW), pp. 1009-1020, 2013.",
@@ -2507,7 +2624,8 @@
         55,
         69
       ]
-    ]
+    ],
+    "ID": "118"
   },
   {
     "text": "When the morphophonology returns multiple parse candidates, the system employs an N -gram language model (LM) 21",
@@ -2526,7 +2644,8 @@
         90,
         104
       ]
-    ]
+    ],
+    "ID": "119"
   },
   {
     "text": "fore and after the SVD improved results slightly.  For the accumulated tag counts (ACT) we annotate the data with our baseline model and extract word-",
@@ -2541,7 +2660,8 @@
         59,
         81
       ]
-    ]
+    ],
+    "ID": "120"
   },
   {
     "text": "cal markedness constraints directly from the distribution of input-output mappings in an Optimality Theory (OT) setting. The",
@@ -2556,7 +2676,8 @@
         89,
         106
       ]
-    ]
+    ],
+    "ID": "121"
   },
   {
     "text": "sense as a group of similar contexts of target word.  The context group discrimination (CGD) algorithm presented in (Schu?tze, 1998) adopted this strategy.",
@@ -2571,7 +2692,8 @@
         58,
         86
       ]
-    ]
+    ],
+    "ID": "122"
   },
   {
     "text": "on these intuitions, we define the following features: Document frequency of constituents (DF): We use the document frequency of a constituent as",
@@ -2586,7 +2708,8 @@
         55,
         73
       ]
-    ]
+    ],
+    "ID": "123"
   },
   {
     "text": "  To address the issues in transliteration, we  propose a direct orthographic mapping (DOM)  framework through a joint source-channel model ",
@@ -2601,7 +2724,8 @@
         58,
         85
       ]
-    ]
+    ],
+    "ID": "124"
   },
   {
     "text": "parsing accuracy will be reported using the standard metrics of labeled attachment score (LAS) and unlabeled attachment score (UAS).13 Statistical significance is checked using Dan Bikel?s",
@@ -2624,7 +2748,8 @@
         64,
         88
       ]
-    ]
+    ],
+    "ID": "125"
   },
   {
     "text": "veloped for machine learning and data mining, to  determine the data classification performance of  support vector machine (SVM) learning on the                                                   ",
@@ -2639,7 +2764,8 @@
         100,
         122
       ]
-    ]
+    ],
+    "ID": "126"
   },
   {
     "text": "the work of language specialists. They often need to perform extensive corpus research, including Natural Language Processing (NLP), statistical modelling and data visualisation. Our ",
@@ -2654,7 +2780,8 @@
         98,
         125
       ]
-    ]
+    ],
+    "ID": "127"
   },
   {
     "text": "are shown in Table 4. Not surprisingly, using all gazetteer features (AllG) boosts the F1 score from 85.14 % to 88.30%, confirming the power",
@@ -2669,7 +2796,8 @@
         46,
         59
       ]
-    ]
+    ],
+    "ID": "128"
   },
   {
     "text": " A simple approach is presented in (Cardie and  Pierce, 1998) called Treebank Apl)roach (TA). This ",
@@ -2684,7 +2812,8 @@
         69,
         87
       ]
-    ]
+    ],
+    "ID": "129"
   },
   {
     "text": "respectively. Hacioglu et al (2004) showed that  tagging phrase by phrase (P-by-P) is better than  word by word (W-by-W).",
@@ -2707,7 +2836,8 @@
         99,
         111
       ]
-    ]
+    ],
+    "ID": "130"
   },
   {
     "text": " Since precision is measured as the proportion of true positives (TP) to the sum of true positives and false positives (FP): 1748",
@@ -2730,7 +2860,8 @@
         50,
         64
       ]
-    ]
+    ],
+    "ID": "131"
   },
   {
     "text": "tions. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Boston, Massachusetts, USA.",
@@ -2745,7 +2876,8 @@
         48,
         87
       ]
-    ]
+    ],
+    "ID": "132"
   },
   {
     "text": "sponsored by the U.S. government. ACE 2004  defined 7 major entity types: PER (Person), ORG  (Organization), FAC (Facility), GPE (Geo-Political ",
@@ -2792,7 +2924,8 @@
         130,
         143
       ]
-    ]
+    ],
+    "ID": "133"
   },
   {
     "text": "Semantic Role Labeling (SRL) has been used successfully in several stages of automated Question Answering (QA) systems but its inherent slow procedures make it",
@@ -2815,7 +2948,8 @@
         0,
         22
       ]
-    ]
+    ],
+    "ID": "134"
   },
   {
     "text": " 1 Introduction Named Entity Recognition (NER) is usually solved by a supervised learning approach, where",
@@ -2830,7 +2964,8 @@
         16,
         40
       ]
-    ]
+    ],
+    "ID": "135"
   },
   {
     "text": "+Valency = Adding valency filtering to the setting in the preceding row. SUC = Subset of Stockholm-Umea? ",
@@ -2845,7 +2980,8 @@
         79,
         98
       ]
-    ]
+    ],
+    "ID": "136"
   },
   {
     "text": "tying the feature parameters. In particular, we perform maximum entropy (MaxEnt) estimation over the conditional distribution using second-order gra-",
@@ -2860,7 +2996,8 @@
         56,
         71
       ]
-    ]
+    ],
+    "ID": "137"
   },
   {
     "text": "due to French proper names, which are left untranslated in the English parallel text.  15 CLEF = Cross Language Evaluation Forum, ? www.clef-campaign.org?.",
@@ -2875,7 +3012,8 @@
         97,
         128
       ]
-    ]
+    ],
+    "ID": "138"
   },
   {
     "text": "For our simulations, we built two subcorpora by filtering out entity annotations: the PENNBIOIE gene corpus (PBgene), including the three gene entity subtypes generic, protein, and rna,",
@@ -2890,7 +3028,8 @@
         86,
         100
       ]
-    ]
+    ],
+    "ID": "139"
   },
   {
     "text": "Our participation in the STS task is inspired by previous work on paraphrase recognition, in which machine translation (MT) evaluation metrics are used to identify whether a pair of sentences are",
@@ -2909,7 +3048,8 @@
         99,
         118
       ]
-    ]
+    ],
+    "ID": "140"
   },
   {
     "text": "Efficient Algorithms for Parsing the DOP  Model\", Proceedings Empirical Methods in Natural Language  Processing, Philadelphia (PA),  J. Goodman, 1998.",
@@ -2928,7 +3068,8 @@
         113,
         125
       ]
-    ]
+    ],
+    "ID": "141"
   },
   {
     "text": "case.  We choose Support Vector Machines (SVMs) as our learning algorithm for their widely acclaimed",
@@ -2943,7 +3084,8 @@
         17,
         40
       ]
-    ]
+    ],
+    "ID": "142"
   },
   {
     "text": "clue words characteristic to the nine relation types.  In order to measure the semantic relatedness (SR) of targets and clues, we used the Explicit Seman-",
@@ -2958,7 +3100,8 @@
         79,
         99
       ]
-    ]
+    ],
+    "ID": "143"
   },
   {
     "text": " Consider, for example, the tags DT (determiner) and NN (noun), and the four possible ordered tagpairs.",
@@ -2981,7 +3124,8 @@
         37,
         47
       ]
-    ]
+    ],
+    "ID": "144"
   },
   {
     "text": "Measures for Semantic Relations Extraction Alexander Panchenko Center for Natural Language Processing (CENTAL) Universite?",
@@ -2996,7 +3140,8 @@
         63,
         90
       ]
-    ]
+    ],
+    "ID": "145"
   },
   {
     "text": "tilogue, but rather a number of parallel dialogues.  The Mission Rehearsal Exercise (MRE) Project (Traum and Rickel, 2002), one of the largest multilogue",
@@ -3011,7 +3156,8 @@
         57,
         83
       ]
-    ]
+    ],
+    "ID": "146"
   },
   {
     "text": "tween anaphor and antecedent, the feature ddist captures the distance in sentences, the feature mdist the number of markables (NPs) between anaphor and antecedent.",
@@ -3026,7 +3172,8 @@
         106,
         125
       ]
-    ]
+    ],
+    "ID": "147"
   },
   {
     "text": "6 , Guardian Weekly and its manually simplified versions for language learners (Allen, 2009), and the FIRST corpus of various texts simplified for people with autism spectrum disorder (ASD) 7",
@@ -3045,7 +3192,8 @@
         159,
         183
       ]
-    ]
+    ],
+    "ID": "148"
   },
   {
     "text": "that word in a sentence. Another covering  grammar is the so called null grammar (NG), in  which a word can follow any other word.",
@@ -3060,7 +3208,8 @@
         68,
         80
       ]
-    ]
+    ],
+    "ID": "149"
   },
   {
     "text": "Table 1: Categorization of suitability-labels.  3.1.2 Beneficial (BENEF) While SUIT only states that the consumption of",
@@ -3075,7 +3224,8 @@
         54,
         64
       ]
-    ]
+    ],
+    "ID": "150"
   },
   {
     "text": " The  noun phrases we ex-  tract start with an optional determiner (DT)  or  possessive pronoun (PRP$) ,  followed by  a se-  quence of cardinal numbers  (CDs),  adjectives ",
@@ -3106,7 +3256,8 @@
         136,
         144
       ]
-    ]
+    ],
+    "ID": "151"
   },
   {
     "text": "In Proceedings of the 24th International Conference on Computational Linguistics (COLING),Mumbai, India.",
@@ -3121,7 +3272,8 @@
         55,
         80
       ]
-    ]
+    ],
+    "ID": "152"
   },
   {
     "text": "To train models using this information we use 870 generalized expectation (GE) criteria. GE criteria",
@@ -3140,7 +3292,8 @@
         50,
         73
       ]
-    ]
+    ],
+    "ID": "153"
   },
   {
     "text": " Quasi-valency complementations: \u0000 DIFF (difference): The number has swollen by 200. ",
@@ -3155,7 +3308,8 @@
         41,
         51
       ]
-    ]
+    ],
+    "ID": "154"
   },
   {
     "text": "and the other for the target phrase. We call the unit of the two RAEs the Leaf Node Network (LNN). ",
@@ -3174,7 +3328,8 @@
         74,
         91
       ]
-    ]
+    ],
+    "ID": "155"
   },
   {
     "text": " ? Implicit Attitude (IA) - n ? t dimensions are ex-",
@@ -3189,7 +3344,8 @@
         3,
         20
       ]
-    ]
+    ],
+    "ID": "156"
   },
   {
     "text": "mt. In Proceedings of the 22nd International Conference on Computational Linguistics (COLING) - Volume 1, pages 1145?1152.",
@@ -3204,7 +3360,8 @@
         59,
         84
       ]
-    ]
+    ],
+    "ID": "157"
   },
   {
     "text": "The lattice representing a union of several confusion networks can then be directly rescored with an n-gram language model (LM). A transforma-",
@@ -3219,7 +3376,8 @@
         108,
         122
       ]
-    ]
+    ],
+    "ID": "158"
   },
   {
     "text": "cial type of MWEs, for which we are mainly interested in its type, rather than individual lexias, during the annotation: named entities (NE).3 Treatment of NEs together with other MWEs is important, be-",
@@ -3234,7 +3392,8 @@
         121,
         135
       ]
-    ]
+    ],
+    "ID": "159"
   },
   {
     "text": "Document d1 Document d2 Customization Requirement : City, County or State names within sports articles may refer to a sports team  or to the location itself. Customization Solution (CS) :Within sports articles, Identify all occurrences of city/county/state as Organizations, Except when a contextual clue indicates that the reference is to the location Organization Location",
@@ -3257,7 +3416,8 @@
         158,
         180
       ]
-    ]
+    ],
+    "ID": "160"
   },
   {
     "text": "There have been several efforts to incorporate lexical hierarchies into statistical processing, primarily for the problem of prepositional phrase (PP) attachment.",
@@ -3272,7 +3432,8 @@
         125,
         145
       ]
-    ]
+    ],
+    "ID": "161"
   },
   {
     "text": "alignment problems. In Annual Meeting of the Association for Computational Linguistics (ACL), Columbus, Ohio, June.",
@@ -3287,7 +3448,8 @@
         45,
         86
       ]
-    ]
+    ],
+    "ID": "162"
   },
   {
     "text": "the style of Shriberg (1994) and the Switchboard corpus. FP=Filled Pause, RM=Reparandum, IM=Interregnum, RP=Repair.",
@@ -3318,7 +3480,8 @@
         92,
         103
       ]
-    ]
+    ],
+    "ID": "163"
   },
   {
     "text": "The final reward is calculated as follows: TaskCompletionReward(TCR) = 1000 TurnCost(TC) = 10 TotalTurnCost(TTC) = #(Turns) ?",
@@ -3349,7 +3512,8 @@
         94,
         107
       ]
-    ]
+    ],
+    "ID": "164"
   },
   {
     "text": "operation!  On the other hand, we did start working on machine translation (MT) in 1987. As",
@@ -3364,7 +3528,8 @@
         55,
         74
       ]
-    ]
+    ],
+    "ID": "165"
   },
   {
     "text": "following table shows the results of U-DOP on the WSJ40 using 10 different 90-10 splits, compared to a  supervised binarized PCFG (S-PCFG) and a supervised binarized DOP model (S-DOP) on the",
@@ -3395,7 +3560,8 @@
         145,
         169
       ]
-    ]
+    ],
+    "ID": "166"
   },
   {
     "text": "of the above three neural classifiers.  Recursive Autoencoder (RAE) has proven to be an effective model to compose words vectors in",
@@ -3410,7 +3576,8 @@
         40,
         61
       ]
-    ]
+    ],
+    "ID": "167"
   },
   {
     "text": "guishes tile outputs of these two phases by the  data types l:l.hetRep (rhetorical representation)  and DocRep (document representation). ",
@@ -3425,7 +3592,8 @@
         112,
         135
       ]
-    ]
+    ],
+    "ID": "168"
   },
   {
     "text": "m a t i c a l l y  related s t r u c t u r e  is termed a prpposll t ion. -  Four r e l a t i o n s  of p a r t i c i p a t i o n  are dis t ingu ished :  agent  (AGT),  ins t rumenta l  (INS), objective (ORJ), and experiencer  (EXP) .",
@@ -3464,7 +3632,8 @@
         215,
         226
       ]
-    ]
+    ],
+    "ID": "169"
   },
   {
     "text": "an~ (AN)  art~fact (AR)  attribute (AT)  body (BO) ",
@@ -3503,7 +3672,8 @@
         0,
         3
       ]
-    ]
+    ],
+    "ID": "170"
   },
   {
     "text": "respect o silence and noise words are removed from  the Nbest lists 7, next the word stream is tagged with  Brill's part of speech (POS) tagger (Brill, 1994),  Version 1.14, adapted to the SWITCHBOARD Cor- ",
@@ -3518,7 +3688,8 @@
         116,
         130
       ]
-    ]
+    ],
+    "ID": "171"
   },
   {
     "text": "(such as Noun, Verb, Adjective etc). De-lexicalized text representations through POS tagging were first considered for native language identification (NLI), where they were used as a proxy for syntax in order to capture certain types of grammatical errors (Wong and Dras, 2009).",
@@ -3537,7 +3708,8 @@
         119,
         149
       ]
-    ]
+    ],
+    "ID": "172"
   },
   {
     "text": " The weight selection is performed by using the  minimum error rate training (MERT) for log-linear  model parameter estimation (Och, 2003).",
@@ -3552,7 +3724,8 @@
         49,
         76
       ]
-    ]
+    ],
+    "ID": "173"
   },
   {
     "text": "  NAACL-HLT 2012 Workshop on Speech and Language Processing for Assistive Technologies (SLPAT), pages 1?4, Montre?al, Canada, June 7?8, 2012.",
@@ -3571,7 +3744,8 @@
         29,
         86
       ]
-    ]
+    ],
+    "ID": "174"
   },
   {
     "text": " In the RST framework, a text is first divided into several elementary discourse units (EDUs). Each",
@@ -3590,7 +3764,8 @@
         60,
         86
       ]
-    ]
+    ],
+    "ID": "175"
   },
   {
     "text": "2008) and a corpus annotated for the entities Finding, Substance and Body was used for training a conditional random fields (CRF) system (Wang, 2009) as well as for training an en-",
@@ -3605,7 +3780,8 @@
         98,
         123
       ]
-    ]
+    ],
+    "ID": "176"
   },
   {
     "text": "plex knowledge discovery and applications, including but not limited to Question Answering (QA), Machine Translation (MT), and Information Retrieval (IR).",
@@ -3636,7 +3812,8 @@
         127,
         148
       ]
-    ]
+    ],
+    "ID": "177"
   },
   {
     "text": "ation for Computational Linguistics (NAACL) from 2011?2013, and he has served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics.",
@@ -3651,7 +3828,8 @@
         118,
         141
       ]
-    ]
+    ],
+    "ID": "178"
   },
   {
     "text": "Next we consider the recurrent neural network (RNN) based architecture called the Dual Encoder (DE) model (Lowe et al, 2015). The",
@@ -3674,7 +3852,8 @@
         21,
         45
       ]
-    ]
+    ],
+    "ID": "179"
   },
   {
     "text": "- meaningful expression (ME): Any physical act  carrying a non-contextual meaning;  - communicative act (CAct): An instance of ME  issued by a specific \"issuer\" and received by a ",
@@ -3701,7 +3880,8 @@
         2,
         23
       ]
-    ]
+    ],
+    "ID": "180"
   },
   {
     "text": " For an annotation project, text pieces from a source database (DB) are often copied in a local storage and annotations are attached to them.",
@@ -3716,7 +3896,8 @@
         54,
         62
       ]
-    ]
+    ],
+    "ID": "181"
   },
   {
     "text": "consist of two verbs. The first  verb is termed as Full Verb (FV) that is present  at surface level either as conjunctive participial ",
@@ -3731,7 +3912,8 @@
         51,
         60
       ]
-    ]
+    ],
+    "ID": "182"
   },
   {
     "text": "work of KH and FG was supported by the Academy of Finland, and of SVL by the Research Foundation Flanders (FWO). YVdP and SVL ac-",
@@ -3766,7 +3948,8 @@
         86,
         96
       ]
-    ]
+    ],
+    "ID": "183"
   },
   {
     "text": "2007. Identifying authorship by byte-level n-grams: The source code author profile (SCAP) method. Journal of Digital Evidence, 6(1).",
@@ -3781,7 +3964,8 @@
         56,
         82
       ]
-    ]
+    ],
+    "ID": "184"
   },
   {
     "text": " A related task was explored at the Document Understanding Conference (DUC) in 2007.5 Here the goal was to find new information with respect to a",
@@ -3796,7 +3980,8 @@
         36,
         69
       ]
-    ]
+    ],
+    "ID": "185"
   },
   {
     "text": "? and possibly split up ? into True Positive (TP) and False Positive (FP) entities.",
@@ -3819,7 +4004,8 @@
         54,
         68
       ]
-    ]
+    ],
+    "ID": "186"
   },
   {
     "text": "One possibility is the use of semantic annotation, using sentence-level propositional Logical Forms (LF). It seems more cogni-",
@@ -3834,7 +4020,8 @@
         86,
         99
       ]
-    ]
+    ],
+    "ID": "187"
   },
   {
     "text": "basic word-level edit operations (insertion, deletion and substitution) to transform one text into the other: Levenshtein with substitution penalty (LEV2): This feature is a variant of LEV1 in which substi-",
@@ -3853,7 +4040,8 @@
         110,
         147
       ]
-    ]
+    ],
+    "ID": "188"
   },
   {
     "text": "matrix of the IBM Model 1. However, there is a signficant out of vocabulary (OOV) issue in the model since training data is limited.",
@@ -3872,7 +4060,8 @@
         58,
         75
       ]
-    ]
+    ],
+    "ID": "189"
   },
   {
     "text": "of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP (ACL-IJCNLP), pages 342?350, Singapore.",
@@ -3895,7 +4084,8 @@
         23,
         84
       ]
-    ]
+    ],
+    "ID": "190"
   },
   {
     "text": "gories Auxiliary-final VP For auxiliary verbs parsed as verb phrases (VP), this feature checks if the final element in the VP",
@@ -3918,7 +4108,8 @@
         56,
         68
       ]
-    ]
+    ],
+    "ID": "191"
   },
   {
     "text": "Research Projects Agency (DARPA) Deep Exploration and Filtering of Text (DEFT) Program under Air Force Research Laboratory (AFRL) contract no.",
@@ -3949,7 +4140,8 @@
         33,
         71
       ]
-    ]
+    ],
+    "ID": "192"
   },
   {
     "text": "2 ? Lemma, PoS, and Dependency relation (DepRel) for the node itself, the parent, and the left and right sibling",
@@ -3972,7 +4164,8 @@
         20,
         39
       ]
-    ]
+    ],
+    "ID": "193"
   },
   {
     "text": "erol (DAG)?). Note that the position of the long form (LF) and short form (SF) is interchangeable. To dis-",
@@ -3999,7 +4192,8 @@
         44,
         53
       ]
-    ]
+    ],
+    "ID": "194"
   },
   {
     "text": "M27 vp move past, vp pass, vp pass by, vp walk past (all AS) Actions correspond to expansions of lexemes (FV = filling status): 0=unfilled, 1=filled. ( SV = shared variables): the variables np actor (FV), relatum (FV), sentence (FV) and information need (0=low, 1=high) are shared by several subagents; the same applies to their",
@@ -4038,7 +4232,8 @@
         111,
         125
       ]
-    ]
+    ],
+    "ID": "195"
   },
   {
     "text": "x, y) where t(x) is the true label of the observation sequence x. We can get a quadratic program (QP) using a standard transformation to eliminate ?",
@@ -4053,7 +4248,8 @@
         79,
         96
       ]
-    ]
+    ],
+    "ID": "196"
   },
   {
     "text": "46 date the current hypothesis after each observation; b) Confidence Weighted (CW) learning?a probabilistic large margin online learning algorithm (Dredze et",
@@ -4068,7 +4264,8 @@
         58,
         77
       ]
-    ]
+    ],
+    "ID": "197"
   },
   {
     "text": "(see details below).  pronoun, PUNC = punctuation, PRT = particle, and X = residual (a category for language-specific cat-",
@@ -4091,7 +4288,8 @@
         57,
         65
       ]
-    ]
+    ],
+    "ID": "198"
   },
   {
     "text": "In this paper we restrict our attention to the  translation from the English-oriented level (EL)  to the domain model level (DML) since this is  where CEs are disambiguated bychoosing unam- ",
@@ -4118,7 +4316,8 @@
         69,
         91
       ]
-    ]
+    ],
+    "ID": "199"
   },
   {
     "text": "In Addition to the visualhaptic interface, iDrive includes a speech dialogue system (SDS) as well. The SDS allows the driver",
@@ -4133,7 +4332,8 @@
         77,
         83
       ]
-    ]
+    ],
+    "ID": "200"
   },
   {
     "text": "phrase (BADVP), base noun phrase (BNP),  73  base temporal phrase (BTN), base location  phrase (BNS), base verb phrase (BVP) and ",
@@ -4176,7 +4376,8 @@
         73,
         94
       ]
-    ]
+    ],
+    "ID": "201"
   },
   {
     "text": "7 Conclusions We introduce a Laplacian structured sparsity model for computational branding analytics (CBA). In the",
@@ -4191,7 +4392,8 @@
         69,
         101
       ]
-    ]
+    ],
+    "ID": "202"
   },
   {
     "text": "of modals and auxilliaries is deterministic.  Syntactic Chunk (CHUNK): This feature explicitly models the syntactic phrases in which our",
@@ -4206,7 +4408,8 @@
         56,
         61
       ]
-    ]
+    ],
+    "ID": "203"
   },
   {
     "text": "In order to capture the compositional effects with higher accuracy, we propose a new model called the Recursive Neural Tensor Network (RNTN). Recur-",
@@ -4221,7 +4424,8 @@
         102,
         133
       ]
-    ]
+    ],
+    "ID": "204"
   },
   {
     "text": "called CPDB. We used these clues to build a Small Dataset (SD) and a Large Dataset (LD) for reranking.",
@@ -4248,7 +4452,8 @@
         44,
         57
       ]
-    ]
+    ],
+    "ID": "205"
   },
   {
     "text": "Nu' (a) ~ Nu (a) AP (a)  OH  Nu' (a) = Nu (a) A(P (a)~ P' (a))  (3) la propri~t~ P contredit le noyau ; on a ~ la lois ",
@@ -4262,7 +4467,8 @@
         19
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "206"
   },
   {
     "text": "data are summarized in Table 6. We also report the Wordnet first sense baseline (WFS). ",
@@ -4277,7 +4483,8 @@
         51,
         79
       ]
-    ]
+    ],
+    "ID": "207"
   },
   {
     "text": "We note there also exist various multilingual or cross-lingual semantic processing works. Most of such works focus on semantic role labeling(SRL), the task of recovery of shallow meaning. Examples",
@@ -4292,7 +4499,8 @@
         118,
         140
       ]
-    ]
+    ],
+    "ID": "208"
   },
   {
     "text": "5th Conference of the Association for Machine Translation in the Americas (AMTA). Boston, Massachusetts.",
@@ -4307,7 +4515,8 @@
         22,
         73
       ]
-    ]
+    ],
+    "ID": "209"
   },
   {
     "text": " In this paper we deal with automatic acquisition of verbal selectional preferences (SPs) for Latin, i. e. the semantic preferences of verbs on their ar-",
@@ -4322,7 +4531,8 @@
         60,
         83
       ]
-    ]
+    ],
+    "ID": "210"
   },
   {
     "text": "= primary source; C06?C09 = CoNLL 2006?2009; I10 = ICON 2010; SM = shared modifier; CJ = conjunct; Nested CS = portion of CSs participating in nested CSs (both as the inner and outer CS); RT UAS = unlabeled attachment score of the roundtrip experiment described in Section 5.",
@@ -4373,7 +4583,8 @@
         89,
         97
       ]
-    ]
+    ],
+    "ID": "211"
   },
   {
     "text": "Computational Linguistics Volume 21, Number 4  Table 6  Growth of Hypothesis Space: S = sentence; TL = Total number of links; RL= Relevant Links;  AC = Number of Active Chains; G = Growth rate ",
@@ -4412,7 +4623,8 @@
         181,
         192
       ]
-    ]
+    ],
+    "ID": "212"
   },
   {
     "text": "In our experiments, we used the Penn Treebank (PTB) (Marcus et al 1993) for English and the Chinese Treebank version 5.1 (CTB5) (Xue et al 2005) for Chinese.",
@@ -4435,7 +4647,8 @@
         32,
         45
       ]
-    ]
+    ],
+    "ID": "213"
   },
   {
     "text": "3 MaxEnt Model and Features  3.1 MaxEnt Model for NOR  The principle of maximum entropy (MaxEnt)  model is that given a collection of facts, choose a ",
@@ -4462,7 +4675,8 @@
         72,
         87
       ]
-    ]
+    ],
+    "ID": "214"
   },
   {
     "text": "the following.  The Basic Additive model (BA) (introduced in (Mitchell and Lapata, 2008)) computes the disti-",
@@ -4477,7 +4691,8 @@
         20,
         34
       ]
-    ]
+    ],
+    "ID": "215"
   },
   {
     "text": "Two-liners generated by three different algorithms were evaluated by each subject: Script model + Concept clustering (SM+CC) Both script opposition and incongruity are",
@@ -4492,7 +4707,8 @@
         83,
         116
       ]
-    ]
+    ],
+    "ID": "216"
   },
   {
     "text": "All-before 8 0.0313 88.03 Table 1. Instance classification accuracy (CA) using  different feature sets.",
@@ -4507,7 +4723,8 @@
         44,
         67
       ]
-    ]
+    ],
+    "ID": "217"
   },
   {
     "text": "tim+ fo ! lowiug  se lnant i t :  d i~ iens iens~ dependeucy re la t ion   (\\]IR), coordieatien ned apposition constructions (CA) and  i :op ic . .",
@@ -4526,7 +4743,8 @@
         83,
         110
       ]
-    ]
+    ],
+    "ID": "218"
   },
   {
     "text": "for our experiment: Telecommunication Services (TS, the sector with the smallest number of companies), Information Technology (IT), and Consumer Staples (CS), due to our familiarity with the",
@@ -4557,7 +4775,8 @@
         136,
         152
       ]
-    ]
+    ],
+    "ID": "219"
   },
   {
     "text": "and there are many local minima on the error surface.  Therefore, we use an alternative loss function, minimum squared error (MSE) in equation (5), where Score(.)",
@@ -4572,7 +4791,8 @@
         103,
         124
       ]
-    ]
+    ],
+    "ID": "220"
   },
   {
     "text": "ment data time constraints, we were not able to test which of our modules leads to false negative (FN) instances. ",
@@ -4587,7 +4807,8 @@
         83,
         97
       ]
-    ]
+    ],
+    "ID": "221"
   },
   {
     "text": "? Rule One. For the first noun phrase (NP) encountered by the system, if 1) this NP has a name entity",
@@ -4602,7 +4823,8 @@
         26,
         37
       ]
-    ]
+    ],
+    "ID": "222"
   },
   {
     "text": "(ARTG, PR.OC)I ^  (SUBS, SUSU, VT)2  , ARTG = article g~n&al  SUBS = substantif  compl~ment  VT  = verbe conjugu6 ",
@@ -4653,7 +4875,8 @@
         99,
         104
       ]
-    ]
+    ],
+    "ID": "223"
   },
   {
     "text": "tions. The CSR techniques are based on a continuous-  observation Hidden Markov Model (HMM) approach. ",
@@ -4672,7 +4895,8 @@
         66,
         85
       ]
-    ]
+    ],
+    "ID": "224"
   },
   {
     "text": "word sense disambiguation. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 27(7):1063?1074.",
@@ -4691,7 +4915,8 @@
         48,
         89
       ]
-    ]
+    ],
+    "ID": "225"
   },
   {
     "text": "lingual interpersonal communication. The improvements in automatic speech recognition (ASR), statistical machine translation (MT), and, text-to-speech",
@@ -4714,7 +4939,8 @@
         105,
         124
       ]
-    ]
+    ],
+    "ID": "226"
   },
   {
     "text": "Table 1: Comparison of knowledge acquisition strategies. Interactive query expansion (IQE)?s poor task completion indicates keywords can?t bridge the knowledge",
@@ -4729,7 +4955,8 @@
         57,
         84
       ]
-    ]
+    ],
+    "ID": "227"
   },
   {
     "text": "We experimented with the following four machine learning algorithms: Support Vector Machine (SVM), Multilayer Perceptron(MLP),  Decision Trees(DT) and AdaBoost(AB).",
@@ -4768,7 +4995,8 @@
         151,
         159
       ]
-    ]
+    ],
+    "ID": "228"
   },
   {
     "text": "parsed as the specified category.  The 'target condition(TCND)' represents  conditions on variables in tile 'target pattern.'",
@@ -4783,7 +5011,8 @@
         40,
         56
       ]
-    ]
+    ],
+    "ID": "229"
   },
   {
     "text": "Probabilistic ID/LP grammars  The idea of separating simple context-free rules into two, orthogunal rule sets, immediate  dominance(ID) rules, and linear precedence(LP) rules, gives a notation for writing grammars called  ID/LP.",
@@ -4814,7 +5043,8 @@
         111,
         131
       ]
-    ]
+    ],
+    "ID": "230"
   },
   {
     "text": " 2 Related Work Locality sensitive hashing (LSH) (Indyk and Motwani, 1998) is an example of an approximate",
@@ -4829,7 +5059,8 @@
         16,
         42
       ]
-    ]
+    ],
+    "ID": "231"
   },
   {
     "text": " 2 Methodologies The Hidden Vector State (HVS) model (He and Young, 2005) is a discrete Hidden Markov Model",
@@ -4844,7 +5075,8 @@
         21,
         40
       ]
-    ]
+    ],
+    "ID": "232"
   },
   {
     "text": "The output of our experiments was evaluated using two metrics, (1) BLEU (Papineni et al, 2002), and (2) Lexical Accuracy (LexAcc). Lexical ac-",
@@ -4863,7 +5095,8 @@
         104,
         120
       ]
-    ]
+    ],
+    "ID": "233"
   },
   {
     "text": "corrccmess as follows:  ? Translation Correctness (TA). This is tile percentage of",
@@ -4878,7 +5111,8 @@
         26,
         37
       ]
-    ]
+    ],
+    "ID": "234"
   },
   {
     "text": "We consider two common ways of calculating the translation probability: using the maximum likelihood estimator (MLE) and smoothing the MLE using lexical weighting.",
@@ -4897,7 +5131,8 @@
         82,
         110
       ]
-    ]
+    ],
+    "ID": "235"
   },
   {
     "text": "studied for text categorization task (Forman, 2003).  Information gain (IG) is one of state of the art criteria for feature selection, which measures the de-",
@@ -4912,7 +5147,8 @@
         54,
         70
       ]
-    ]
+    ],
+    "ID": "236"
   },
   {
     "text": "They are Independent Word Probability (IWP), Anti-Word Pair  (AWP), and Word Formation Analogy (WFA). ",
@@ -4943,7 +5179,8 @@
         45,
         59
       ]
-    ]
+    ],
+    "ID": "237"
   },
   {
     "text": "freely available framenets for a number of languages (Boas, 2009), among these the Swedish FrameNet (SweFN) (Borin et al, 2010).5",
@@ -4958,7 +5195,8 @@
         83,
         99
       ]
-    ]
+    ],
+    "ID": "238"
   },
   {
     "text": "1. the mention type: person (PER), organization (ORG), location (LOC), geopolitical entity (GPE), facility (FAC), vehicle (VEH), and",
@@ -4973,7 +5211,8 @@
         55,
         63
       ]
-    ]
+    ],
+    "ID": "239"
   },
   {
     "text": "6 Related Work Two most prevalent discourse parsing treebanks are RST Discourse Treebank (RST-DT) (Carlson et al.,",
@@ -4988,7 +5227,8 @@
         66,
         88
       ]
-    ]
+    ],
+    "ID": "240"
   },
   {
     "text": "ranging from generating weather forecasts to summarizing medical information (Reiter and Dale 2000). Of all the subtasks of NLG, Referring Expression Generation (REG) is among those that have received most scholarly attention.",
@@ -5007,7 +5247,8 @@
         129,
         160
       ]
-    ]
+    ],
+    "ID": "241"
   },
   {
     "text": "Table 1. Judgment count for the sample instances (HA=high attachment; LA=low attachment; and A=Ambiguous)   ",
@@ -5022,7 +5263,8 @@
         73,
         87
       ]
-    ]
+    ],
+    "ID": "242"
   },
   {
     "text": "8 Conclusion We proposed a framework to generate characteristicrich questions for question answering (QA) evaluation.",
@@ -5037,7 +5279,8 @@
         82,
         100
       ]
-    ]
+    ],
+    "ID": "243"
   },
   {
     "text": "    Two additional general features were used.  The preposition feature (PREP) captures the  most indicative preposition among connected ",
@@ -5052,7 +5295,8 @@
         52,
         63
       ]
-    ]
+    ],
+    "ID": "244"
   },
   {
     "text": "In this paper we present methods for reducing the compu-  tation time of joint segmentation a d recognition of phones  using the Stochastic Segment Model (SSM). Our approach ",
@@ -5067,7 +5311,8 @@
         129,
         153
       ]
-    ]
+    ],
+    "ID": "245"
   },
   {
     "text": "Baselines We use the following baselines. The first is the Homogenous Poisson Process (HPP) trained on the training set of the rumour.",
@@ -5082,7 +5327,8 @@
         59,
         85
       ]
-    ]
+    ],
+    "ID": "246"
   },
   {
     "text": "features extracted from the LFG parse.  Lexical Functional Grammar (LFG) (Bresnan, 2000) is a constraint-based theory of grammar.",
@@ -5101,7 +5347,8 @@
         40,
         66
       ]
-    ]
+    ],
+    "ID": "247"
   },
   {
     "text": "to learn a lexicon. The theory of the TAD states is Universal Theory (UT); a UT metalanguage enables an abstract characteriza-",
@@ -5124,7 +5371,8 @@
         52,
         68
       ]
-    ]
+    ],
+    "ID": "248"
   },
   {
     "text": "appficability o new tasks, such as indications/warn-  ings, text tagging, and document detection support  \\[1\\] The Text REtrieval Conferences (TREC's) are described  in the Document Detecfien section.",
@@ -5139,7 +5387,8 @@
         116,
         142
       ]
-    ]
+    ],
+    "ID": "249"
   },
   {
     "text": "two aspects: how well the generated text reflects the source data, whether it be text in another language for machine translation (MT), a natural language generation (NLG) input representation, a doc-",
@@ -5162,7 +5411,8 @@
         138,
         165
       ]
-    ]
+    ],
+    "ID": "250"
   },
   {
     "text": "pris VPE (participe assE)  la AR  TD  par PREP (prEposition)  main SUBS (substamif) ",
@@ -5177,7 +5427,8 @@
         48,
         59
       ]
-    ]
+    ],
+    "ID": "251"
   },
   {
     "text": "The UMLS includes the Metathesaurus (MT),  which contains over one million biomedical concepts and the Semantic Network (SN), which  represents a high-level abstraction from the UMLS ",
@@ -5208,7 +5459,8 @@
         22,
         35
       ]
-    ]
+    ],
+    "ID": "252"
   },
   {
     "text": "H and T . This set of features is later used by two support vector machine (SVM) classifiers for detecting CLTE separately in both directions (T ?",
@@ -5231,7 +5483,8 @@
         81,
         106
       ]
-    ]
+    ],
+    "ID": "253"
   },
   {
     "text": "Conceptual structures (ConcSs);  ? Parsed syntactic structures (PSyntSs). ",
@@ -5254,7 +5507,8 @@
         0,
         21
       ]
-    ]
+    ],
+    "ID": "254"
   },
   {
     "text": "To this  end, more and more information extraction (IE)  systems using natural language processing (NLP)  have been developed for use in the biomedical ",
@@ -5277,7 +5531,8 @@
         28,
         50
       ]
-    ]
+    ],
+    "ID": "255"
   },
   {
     "text": "elements and punctuation. We used the same evaluation metrics for unlabeled precision (UP) and unlabeled recall (UR) as defined in Klein (2005: 21-",
@@ -5300,7 +5555,8 @@
         95,
         111
       ]
-    ]
+    ],
+    "ID": "256"
   },
   {
     "text": "of the Spanish language. Our experimental project is a collaboration  of the Royal Spanish Academy (R.A.E.) and the Computer Center of  the University of Madrid (CCVM).",
@@ -5323,7 +5579,8 @@
         116,
         160
       ]
-    ]
+    ],
+    "ID": "257"
   },
   {
     "text": "2008.  Deciding strictly local (SL) languages. In Jon Breit-",
@@ -5338,7 +5595,8 @@
         16,
         30
       ]
-    ]
+    ],
+    "ID": "258"
   },
   {
     "text": "an all time high.  \u0000 HER (heritage): He named the new villa after his wife.",
@@ -5353,7 +5611,8 @@
         26,
         34
       ]
-    ]
+    ],
+    "ID": "259"
   },
   {
     "text": "tion algorithm to chase after undecidable cases. For example, consider prepositional phrases (PPs) with in as the head. These PPs occur frequently, and about half of them",
@@ -5372,7 +5631,8 @@
         85,
         92
       ]
-    ]
+    ],
+    "ID": "260"
   },
   {
     "text": "consists of following elements: Topic  Number(NUM),Topic Title(TITLE),Topic  question(DESC),Topic Narrative(NARR) and  Topic Concepts(CONC).",
@@ -5415,7 +5675,8 @@
         125,
         133
       ]
-    ]
+    ],
+    "ID": "261"
   },
   {
     "text": "MR = MN/length (5) ? The Continuous Match Value(CMV): Continuous match should be better than the",
@@ -5438,7 +5699,8 @@
         25,
         46
       ]
-    ]
+    ],
+    "ID": "262"
   },
   {
     "text": "Improvements in a simulated speech-recognition example. Nine versions of a phonemically  identical oronym, ordered by weighted average (W.A.) probability (x 10-20). The W.A. ",
@@ -5457,7 +5719,8 @@
         118,
         134
       ]
-    ]
+    ],
+    "ID": "263"
   },
   {
     "text": "The central components of our non-parametric Bayesian models are the Chinese Restaurant Processes (CRPs) and the closely related Dirichlet Processes (DPs) (Ferguson, 1973).",
@@ -5480,7 +5743,8 @@
         129,
         148
       ]
-    ]
+    ],
+    "ID": "264"
   },
   {
     "text": "L&L is suggestive of a particular approach to supervised learning ? maximum entropy (MaxEnt) ? in",
@@ -5499,7 +5763,8 @@
         68,
         83
       ]
-    ]
+    ],
+    "ID": "265"
   },
   {
     "text": "read speech and two-party dialogue, multi-party dialogues typically exhibit a considerably higher word error rate (WER) (Morgan et al, 2003). ",
@@ -5514,7 +5779,8 @@
         98,
         113
       ]
-    ]
+    ],
+    "ID": "266"
   },
   {
     "text": "junct verbs (ConjVs), the Non-MonoClausal  Verbs (NMCV) and Auxiliary Construction  (AC) occur as conjunct verbs (ConjVs).  The ",
@@ -5553,7 +5819,8 @@
         60,
         82
       ]
-    ]
+    ],
+    "ID": "267"
   },
   {
     "text": " bo und Figure 1: Accuracy for Na??veBayes classifier (NBC) and Majority Rule (MR) 4 Experimental results",
@@ -5576,7 +5843,8 @@
         31,
         53
       ]
-    ]
+    ],
+    "ID": "268"
   },
   {
     "text": "3.3 Adapting the POS tagset (STTS) To account for important differences between modern and Early Modern German (EMG), and to facilitate more accurate searches, we adapted the STTS",
@@ -5603,7 +5871,8 @@
         91,
         110
       ]
-    ]
+    ],
+    "ID": "269"
   },
   {
     "text": "The rules  in an AG have a considerably different formal character as compared  to the 'rewrite rule' in a general phrase structure grmmmar (PSG). ",
@@ -5622,7 +5891,8 @@
         115,
         139
       ]
-    ]
+    ],
+    "ID": "270"
   },
   {
     "text": "Previous shared tasks for grammar error correction, such as the HOO shared task of 2012 (HOO-2012) and the CoNLL-2013 shared task(CoNLL-2013),",
@@ -5645,7 +5915,8 @@
         64,
         87
       ]
-    ]
+    ],
+    "ID": "271"
   },
   {
     "text": "languages by using approaches based on CCA (Canonical Correlation Analysis) and multilingual PLSA (Probabilistic Latent Semantic Analysis). ",
@@ -5668,7 +5939,8 @@
         44,
         74
       ]
-    ]
+    ],
+    "ID": "272"
   },
   {
     "text": "For example, an infinitival clause  (INFCL) may contain a noun phrase with an  embedded relative clause (RELCL). Elimination ",
@@ -5691,7 +5963,8 @@
         16,
         34
       ]
-    ]
+    ],
+    "ID": "273"
   },
   {
     "text": "natural problems, and outperform several widelyused conventional models, e.g., support vector machines (SVMs), conditional random fields (CRFs) and hidden Markov models (HMMs).",
@@ -5722,7 +5995,8 @@
         148,
         168
       ]
-    ]
+    ],
+    "ID": "274"
   },
   {
     "text": "by the organizers). The results are compared to the best system and the MFS (Most Frequent Sense) baseline.",
@@ -5737,7 +6011,8 @@
         77,
         96
       ]
-    ]
+    ],
+    "ID": "275"
   },
   {
     "text": "Abstract This paper reports about the development of a Named Entity Recognition (NER) system for Bengali using the statistical Conditional",
@@ -5752,7 +6027,8 @@
         55,
         79
       ]
-    ]
+    ],
+    "ID": "276"
   },
   {
     "text": "David Scott Warren and Joyce Friedman Using Semantics in Non-Context-Free Parsing  As a more intuitive example of refinement, consider  an English-like language with categories term (TE) and  intransitive verb phrase (IV) that both include singular ",
@@ -5775,7 +6051,8 @@
         192,
         209
       ]
-    ]
+    ],
+    "ID": "277"
   },
   {
     "text": " The absence of reliable single-sentence estimates points to a gap in natural language processing (NLP) research.",
@@ -5790,7 +6067,8 @@
         70,
         97
       ]
-    ]
+    ],
+    "ID": "278"
   },
   {
     "text": "Evaluation of Online Dialogue Policy Learning Techniques, Proceedings of the 8th Conference on Language Resources and Evaluation (LREC) 2012, to appear.",
@@ -5805,7 +6083,8 @@
         95,
         113
       ]
-    ]
+    ],
+    "ID": "279"
   },
   {
     "text": " The ACE 2005 data set alo contains a set of ariticles from the broadcast news (BN) source which is written entirely in lower case.",
@@ -5824,7 +6103,8 @@
         64,
         78
       ]
-    ]
+    ],
+    "ID": "280"
   },
   {
     "text": "mosque, . . .   Detai l izat ion (DET) - a subst i tut ion of a  detai led description Y1 of a thing, s i tuat ion ",
@@ -5839,7 +6119,8 @@
         16,
         32
       ]
-    ]
+    ],
+    "ID": "281"
   },
   {
     "text": "(RA (NULL))))))  (NPOS (NULL)))  (NVAR (N='BYPASS':(SINGULAR) \" ('BYPASS')))  (RN (NULL))))) ",
@@ -5878,7 +6159,8 @@
         40,
         60
       ]
-    ]
+    ],
+    "ID": "282"
   },
   {
     "text": "http://wordnet.princeton.edu/glosstag.shtml 1462 tive baseline, based on Greedy String Tiling (GST) (Wise, 1996).",
@@ -5893,7 +6175,8 @@
         73,
         93
       ]
-    ]
+    ],
+    "ID": "283"
   },
   {
     "text": ". . . ( 7) To shorten notation, we use state abbreviations (e.g., CA = California :state). ",
@@ -5908,7 +6191,8 @@
         71,
         81
       ]
-    ]
+    ],
+    "ID": "284"
   },
   {
     "text": " 3 Tools and Component Combination   We use the support vector machine (SVM) multi-class classifier (Crammer and Singer (2002),  ",
@@ -5923,7 +6207,8 @@
         48,
         70
       ]
-    ]
+    ],
+    "ID": "285"
   },
   {
     "text": "servations.  Partial Least Squares Regression (PLSR) is a multivariate regression technique that has been de-",
@@ -5938,7 +6223,8 @@
         13,
         45
       ]
-    ]
+    ],
+    "ID": "286"
   },
   {
     "text": "making valuable data resources publicly available . The author is a member of the Institute for Robotics and Intelligent Systems (IRIS) and wishes to acknowledge the support of the Networks of Centres of Excellenc e Program of the Government of Canada, the Natural Sciences and Engineering Research Council (NSERC) ,",
@@ -5961,7 +6247,8 @@
         257,
         306
       ]
-    ]
+    ],
+    "ID": "287"
   },
   {
     "text": "NP re-annotation very helpful for the performance. We think it is because of the annotation style of the Upenn Chinese Treebank (CTB). According to Xue et al",
@@ -5980,7 +6267,8 @@
         111,
         127
       ]
-    ]
+    ],
+    "ID": "288"
   },
   {
     "text": "mender systems using a multidimensional approach.  ACM Transactions on Information Systems (TOIS), 23(1):103?145.",
@@ -5999,7 +6287,8 @@
         55,
         90
       ]
-    ]
+    ],
+    "ID": "289"
   },
   {
     "text": "tracted from a corpus of parsed sentences.  A super abstract role value (SuperARV) is an abstraction of the joint assignment of dependencies for",
@@ -6014,7 +6303,8 @@
         46,
         71
       ]
-    ]
+    ],
+    "ID": "290"
   },
   {
     "text": "duction Factor, and the \"expected utility\" of a PA-  SSF is estimated as the Global Reduction Factor:  Reduct ion  Factor  The Reduction Factor (RF)  of  a given SSFssf is RF(ss f )  = n(ssf)  - 1, where ",
@@ -6041,7 +6331,8 @@
         127,
         143
       ]
-    ]
+    ],
+    "ID": "291"
   },
   {
     "text": "most frequent sense of the training corpus (TRAIN-MFS). However, all of them are far below to the Topic Signatures acquired using the training corpus (TRAIN). ",
@@ -6064,7 +6355,8 @@
         27,
         35
       ]
-    ]
+    ],
+    "ID": "292"
   },
   {
     "text": "O. Introduction.  Since 1971 the research group \"Maschinelle Syntaxanalyse\" (MasA)  has been working as a part of the project \"Linguistische Datenverar- ",
@@ -6079,7 +6371,8 @@
         49,
         74
       ]
-    ]
+    ],
+    "ID": "293"
   },
   {
     "text": "as given in (6)b, the v-hon type with the -(u)si suffix adds the information that its subject (the first element in the ARG-ST (argument structure)) is [HON +], in addition to the information that the",
@@ -6098,7 +6391,8 @@
         128,
         146
       ]
-    ]
+    ],
+    "ID": "294"
   },
   {
     "text": "second indicator of effective query is the recall at R document retrieved (Recall at R).  The last indicator measures the human effort (HE) in finding the answer. HE is ",
@@ -6117,7 +6411,8 @@
         122,
         134
       ]
-    ]
+    ],
+    "ID": "295"
   },
   {
     "text": "Figure 1 Examples of contextual phenomena,  ellipsis depends on the context and means 'credit card'; it  is both a focus and an object (OBJ). ",
@@ -6132,7 +6427,8 @@
         128,
         134
       ]
-    ]
+    ],
+    "ID": "296"
   },
   {
     "text": "6.7 Presence of  four digits 8 Evaluation  If the token is a four digit number, it is likelier to  be a NETI (Named Entity Time). For example, ",
@@ -6147,7 +6443,8 @@
         110,
         127
       ]
-    ]
+    ],
+    "ID": "297"
   },
   {
     "text": " 1 Introduction Data-driven machine translation (MT) relies on models that can be efficiently estimated from par-",
@@ -6162,7 +6459,8 @@
         28,
         47
       ]
-    ]
+    ],
+    "ID": "298"
   },
   {
     "text": "TM has been shown to be effective in several Information Retrieval (IR) and Natural Language Processing (NLP) applications. For example, in cross language IR, TM was used to handle out-of-vocabulary query words by mining transliterations between words in queries and top n retrieved documents and then using transliterations to expand queries (Udupa et al, 2009a). In Machine Translation (MT), TM can improve alignment at training time and help enrich phrase tables with named entities that may not appear in parallel training data. More broadly, TM is a character mapping problem.",
@@ -6205,7 +6503,8 @@
         76,
         103
       ]
-    ]
+    ],
+    "ID": "299"
   },
   {
     "text": "One team participated in the GRO task, and their results were compared with those of a preliminary system prepared by the task organizers. An analysis of the evaluation results leads us to study issues such as the need to consider the ontology structure and the need for semantic analysis, which are not seriously dealt with by current approaches to event extraction. 6 Organization of the workshop The BioNLP Shared Task 2013 (BioNLP-ST) workshop was organized as part of the ACL BioNLP 2013 workshop. After submission of their system results, participants were invited to submit a paper on their systems to the workshop.",
@@ -6232,7 +6531,8 @@
         403,
         421
       ]
-    ]
+    ],
+    "ID": "300"
   },
   {
     "text": "A study of global inference algorithms in multi-document summarization. In Proceedings of the 29th European Conference on Information Retrieval (ECIR), pages 557?564. ",
@@ -6247,7 +6547,8 @@
         99,
         143
       ]
-    ]
+    ],
+    "ID": "301"
   },
   {
     "text": "sentence, but many equally good translation options.  Often, machine translation (MT) systems are only evaluated quantitatively, e.g. by the use of automatic",
@@ -6262,7 +6563,8 @@
         61,
         80
       ]
-    ]
+    ],
+    "ID": "302"
   },
   {
     "text": "syntactic tree fragments (STFs) and partial tree fragments (PTFs) 2.2.1 Syntactic Tree Kernels (STK) An STF is a connected subset of the nodes and",
@@ -6297,7 +6599,8 @@
         36,
         58
       ]
-    ]
+    ],
+    "ID": "303"
   },
   {
     "text": "PAST (- +)  Finite verbs are specified as (PAST +) if they are in  the past tense, and as (PAST -) otherwise. ",
@@ -6320,7 +6623,8 @@
         71,
         81
       ]
-    ]
+    ],
+    "ID": "304"
   },
   {
     "text": "cal and clinical applications. Early work relied on the Gene Ontology (GO)3, which is a hierarchy of terms used to describe genomic information.",
@@ -6335,7 +6639,8 @@
         56,
         69
       ]
-    ]
+    ],
+    "ID": "305"
   },
   {
     "text": "cke et al, 1997). The only attempt to use Minimum Bayes Risk (MBR) decoding in parsing was made in (Goodman, 1996), where a parsing al-",
@@ -6350,7 +6655,8 @@
         42,
         60
       ]
-    ]
+    ],
+    "ID": "306"
   },
   {
     "text": "these instances. We treat the language ID task as a coreference resolution (CoRef) problem: a mention is an IGT or a language name appearing in a",
@@ -6373,7 +6679,8 @@
         52,
         74
       ]
-    ]
+    ],
+    "ID": "307"
   },
   {
     "text": "Figure 1: Vocabulary growth rates for English,  Spanish, German and Korean for the Spontaneous  Scheduling Task (SST). ",
@@ -6388,7 +6695,8 @@
         83,
         111
       ]
-    ]
+    ],
+    "ID": "308"
   },
   {
     "text": "Sellers algorithms  2.1 Algorithm Principle  The Wagner & Fischer (W&F) dynamic  programming algorithm in Figure 3 gives tile ",
@@ -6403,7 +6711,8 @@
         49,
         65
       ]
-    ]
+    ],
+    "ID": "309"
   },
   {
     "text": "sponding to each of the cluster. Fairly intuitively we computed the Longest Common Subsequence(LCS) between the sentences in each cluster which we then",
@@ -6418,7 +6727,8 @@
         68,
         93
       ]
-    ]
+    ],
+    "ID": "310"
   },
   {
     "text": "(selected expansion  terms are in italic)  OR(locator, finder, location,  directory) ",
@@ -6433,7 +6743,8 @@
         47,
         53
       ]
-    ]
+    ],
+    "ID": "311"
   },
   {
     "text": "Coarse-to-fine n-best parsing and MaxEnt discriminative reranking Eugene Charniak and Mark Johnson Brown Laboratory for Linguistic Information Processing (BLLIP) Brown University",
@@ -6452,7 +6763,8 @@
         99,
         153
       ]
-    ]
+    ],
+    "ID": "312"
   },
   {
     "text": "In the table, P is precision; R is  recall; P&R is the harmonic mean of precision and  recall  (P&R = (2*P*R) / (P+R), corresponding to a  F-measure with a ?",
@@ -6479,7 +6791,8 @@
         36,
         42
       ]
-    ]
+    ],
+    "ID": "313"
   },
   {
     "text": "Similarity  task  at  SEM  2013.  The  Semantic  Textual Similarity Core task  (STS)  computes the  degree  of  semantic  equivalence  between  two ",
@@ -6498,7 +6811,8 @@
         57,
         77
       ]
-    ]
+    ],
+    "ID": "314"
   },
   {
     "text": "tion, corpora from seven different genres are used: the MSNBC broadcasting conversation (BC), the CNN broadcasting news (BN), the Sinorama news magazine (MZ), the WSJ newswire (NW), and the",
@@ -6549,7 +6863,8 @@
         167,
         175
       ]
-    ]
+    ],
+    "ID": "315"
   },
   {
     "text": "Using the XTAG Tree Adjoining Grammar [Gro01], we start by listing these variations. Indeed a Tree Adjoining Grammar (TAG) lists the set of all possible syntactic configurations for basic clauses and groups them into so-called (tree) families.",
@@ -6572,7 +6887,8 @@
         94,
         116
       ]
-    ]
+    ],
+    "ID": "316"
   },
   {
     "text": "In order to quantify the level of noise in the collected SMS data, we built a character-level language model(LM)13 using the questions in the FAQ data-set (vocabulary",
@@ -6595,7 +6911,8 @@
         94,
         107
       ]
-    ]
+    ],
+    "ID": "317"
   },
   {
     "text": "Chinese research and applications. We refer to it  as CLO (Chinese Lexical Ontology). In addition ",
@@ -6610,7 +6927,8 @@
         59,
         83
       ]
-    ]
+    ],
+    "ID": "318"
   },
   {
     "text": "Stochastic Gradient Descent (SGD) (Tsuruoka et al., 2009) `2 regularization, hinge loss Bernoulli Naive Bayes (B-NB) (McCallum et al., 1998) ?",
@@ -6633,7 +6951,8 @@
         0,
         27
       ]
-    ]
+    ],
+    "ID": "319"
   },
   {
     "text": "issue. Send membership applications and  address changes to Betty Walker (ACL),  Bellcore, 445 South Street, MRE 2A379, ",
@@ -6652,7 +6971,8 @@
         41,
         72
       ]
-    ]
+    ],
+    "ID": "320"
   },
   {
     "text": "training (Blum and Mitchell, 1998) has been successfully applied to English named entity recognition (NER) (Collins & Singer [henceforth C&S] (1999)).",
@@ -6671,7 +6991,8 @@
         94,
         100
       ]
-    ]
+    ],
+    "ID": "321"
   },
   {
     "text": "Center who will send the artillery fire when given the appropriate information.  In line 1, G19?s utterance is interpreted as a Warning Order - Method of Fire (WO-MOF), describing the kind of artillery fire requested, whose value is ?",
@@ -6686,7 +7007,8 @@
         128,
         158
       ]
-    ]
+    ],
+    "ID": "322"
   },
   {
     "text": "REPRESENTATION OF INTENSIONAI,  CON'FEXTS  The main extension to the work reported in \\[Di Eugenio &  Lesnro II'/l consists in the introduction of CONTEXT SPACES (CS),  which enable us to treat the intensional contexts along the lines pro.. ",
@@ -6701,7 +7023,8 @@
         147,
         161
       ]
-    ]
+    ],
+    "ID": "323"
   },
   {
     "text": "machine learning algorithms from the Python scikit-learn4 package: Na??ve Bayes (NB), Maximum Entropy (MaxEnt), and Support Vector Machines (SVM).",
@@ -6732,7 +7055,8 @@
         116,
         139
       ]
-    ]
+    ],
+    "ID": "324"
   },
   {
     "text": "In TAC 2008 Summarization track, all submitted runs were scored with the ROUGE (Lin, 2004) and Basic Elements (BE) metrics (Hovy et al.,",
@@ -6751,7 +7075,8 @@
         95,
         109
       ]
-    ]
+    ],
+    "ID": "325"
   },
   {
     "text": "on specific characteristics of the signs, have appeared in the international community: HamNoSys  (Prillwitz et al 1989), SEA (Sistema de Escritura  Alfab?tica) (Herrero, A., 2004) and SignWriting ",
@@ -6770,7 +7095,8 @@
         127,
         134
       ]
-    ]
+    ],
+    "ID": "326"
   },
   {
     "text": "take advantage of the capabilities of a vectofized  concurrent processor (an Alliant FX/80) which consists  of a cluster of up to 8 computing elements (CE's) that  can execute code in vector concurrent mode.",
@@ -6789,7 +7115,8 @@
         132,
         150
       ]
-    ]
+    ],
+    "ID": "327"
   },
   {
     "text": "Concerning the second objective, we will devise our new measure, known as the Odds of Unithood (OU), which are derived using Bayes Theorem and founded on a few elementary probabil-",
@@ -6804,7 +7131,8 @@
         83,
         94
       ]
-    ]
+    ],
+    "ID": "328"
   },
   {
     "text": " 1 Introduction  Word sense disambiguation (WSD) is perhaps the  great open problem at the lexical level of natural ",
@@ -6819,7 +7147,8 @@
         17,
         42
       ]
-    ]
+    ],
+    "ID": "329"
   },
   {
     "text": "Introduction  In a large natural language processing system,  such as a machine translation system (MTS), am-  biguity resolution is a critical problem.",
@@ -6834,7 +7163,8 @@
         72,
         98
       ]
-    ]
+    ],
+    "ID": "330"
   },
   {
     "text": "rules are learned from the alignment of manuallytranscribed text (T ) with automatically-generated transcripts (TASR) of training data, ranked according to a scoring function (S) and applied to the",
@@ -6853,7 +7183,8 @@
         60,
         64
       ]
-    ]
+    ],
+    "ID": "331"
   },
   {
     "text": "resented by an order domain (DOM), which is a list  of domain objects, whose relative order must satisfy  a set of linear precedence (LP) constraints. The or- ",
@@ -6876,7 +7207,8 @@
         21,
         27
       ]
-    ]
+    ],
+    "ID": "332"
   },
   {
     "text": "Donnell, 1982).  Def in i t ion 1 A deterministic tree automaton (DTA)  is a 5-tuple M = (Q, ~, ~, qo, F), where Q is a finite ",
@@ -6891,7 +7223,8 @@
         36,
         64
       ]
-    ]
+    ],
+    "ID": "333"
   },
   {
     "text": "Cui et al experimented with two approaches to rank the candidate answers, called Bigram Model and Profile Hidden Markov Model (PHMM). Both",
@@ -6906,7 +7239,8 @@
         98,
         125
       ]
-    ]
+    ],
+    "ID": "334"
   },
   {
     "text": "\\canonical\" dependency direction under wellde\fned conditions, distinguishing between ordre lin\u0013eaire (linear precedence(LP)) and ordre structural (immediate dominance(ID)).",
@@ -6921,7 +7255,8 @@
         102,
         118
       ]
-    ]
+    ],
+    "ID": "335"
   },
   {
     "text": "both tasks together would be desirable. In this section, we propose the use of factorial CRF (F-CRF) (Sutton et al, 2007), which has previously been",
@@ -6936,7 +7271,8 @@
         79,
         92
       ]
-    ]
+    ],
+    "ID": "336"
   },
   {
     "text": " 1 Introduction Word sense disambiguation (WSD) is a key enabling technology.",
@@ -6951,7 +7287,8 @@
         16,
         41
       ]
-    ]
+    ],
+    "ID": "337"
   },
   {
     "text": "Turning to emerging structure, PTT assumes that participants perform (often fragmentary) contributions, discourse units (DUs), which are dynamic propositions (DRSs in the",
@@ -6974,7 +7311,8 @@
         104,
         119
       ]
-    ]
+    ],
+    "ID": "338"
   },
   {
     "text": "languages. Another, resource-light approach treats the context as a bag of words (BoW) and detects the similarity of contexts on the basis of colloca-",
@@ -6989,7 +7327,8 @@
         68,
         80
       ]
-    ]
+    ],
+    "ID": "339"
   },
   {
     "text": "In this paper we have systematically studied these complex relations involving SVC and VopC for BP, which constitute a challenge to Natural Language Processing (NLP) systems, and have been often ignored in related work.",
@@ -7016,7 +7355,8 @@
         132,
         159
       ]
-    ]
+    ],
+    "ID": "340"
   },
   {
     "text": "specification whose precise informational content and form is in turn defined by an appropriate Document Type Definition (DTD). ",
@@ -7031,7 +7371,8 @@
         96,
         120
       ]
-    ]
+    ],
+    "ID": "341"
   },
   {
     "text": "general idea widely used in this kind of systems: if  an input sentence is syntactically ill-formed, i.e. it  cannot be assigned a syntactic structure (SyntS),  the system considers minimal changes that enable it ",
@@ -7046,7 +7387,8 @@
         131,
         150
       ]
-    ]
+    ],
+    "ID": "342"
   },
   {
     "text": "1203 Figure 1: Bootstrapped Learning. ( HT = hashtag; HP = hashtag pattern) dov et al.,",
@@ -7069,7 +7411,8 @@
         45,
         52
       ]
-    ]
+    ],
+    "ID": "343"
   },
   {
     "text": "2003) on the term-sentence matrix of human model summaries used in the Document Understanding Conference (DUC) 2007 Pyramid evaluation1.",
@@ -7084,7 +7427,8 @@
         71,
         104
       ]
-    ]
+    ],
+    "ID": "344"
   },
   {
     "text": "1 Introduction Visualizing Web search results remains an open problem in Information Retrieval (IR). For exam-",
@@ -7099,7 +7443,8 @@
         73,
         94
       ]
-    ]
+    ],
+    "ID": "345"
   },
   {
     "text": "Here, we describe a naive baseline approach to arrange nearest neighbors next to each other by using Independent Random Projections (IRP). In this",
@@ -7114,7 +7459,8 @@
         101,
         131
       ]
-    ]
+    ],
+    "ID": "346"
   },
   {
     "text": "Figure 2: Algorithm for scope detection by MRS crawling a Formally: If an EP shares its label with the negation cue, or is a quantifier whose restriction (RSTR) is = q",
@@ -7137,7 +7483,8 @@
         142,
         153
       ]
-    ]
+    ],
+    "ID": "347"
   },
   {
     "text": "x?D(X) P (X = x|W1 = w1, . . . , WN = wN ). ( 1)",
@@ -7152,7 +7499,8 @@
         38,
         40
       ]
-    ]
+    ],
+    "ID": "348"
   },
   {
     "text": "fr, veronis@fraixll  .univ-aix. fr  Abstract, MULTEXT (Multilingual Text \"Fools and  Corpora) is the largest project funded in the Commission ",
@@ -7171,7 +7519,8 @@
         55,
         72
       ]
-    ]
+    ],
+    "ID": "349"
   },
   {
     "text": "In Proceedings of the 16th International Conference on Computational Linguistics (COLING-96). ",
@@ -7186,7 +7535,8 @@
         55,
         80
       ]
-    ]
+    ],
+    "ID": "350"
   },
   {
     "text": "(located at lower levels) in a taxonomy.  In the Information Retrieval (IR) community, browsing taxonomies.",
@@ -7201,7 +7551,8 @@
         49,
         70
       ]
-    ]
+    ],
+    "ID": "351"
   },
   {
     "text": " 11 4 Lexical Analysis and Named Entity Recognition (NE ) The lexicon we used contains only syntactic information such as parts of speech and subcategorization frames .",
@@ -7216,7 +7567,8 @@
         28,
         39
       ]
-    ]
+    ],
+    "ID": "352"
   },
   {
     "text": " 2) Prediction precision(PP) =  number of words with correct BPs(CortBP)  total word number (TWN) ",
@@ -7231,7 +7583,8 @@
         53,
         63
       ]
-    ]
+    ],
+    "ID": "353"
   },
   {
     "text": "We used a  3-pass decoding strategy, in which the first pass uses the  speaker independent (SI) vowelized system, the second  pass uses the speaker adaptive (SA) non-vowelized ",
@@ -7254,7 +7607,8 @@
         140,
         156
       ]
-    ]
+    ],
+    "ID": "354"
   },
   {
     "text": "To perform this relocation quickly, Yata et al. ( 2009) introduced two additional one-dimensional arrays, called NLINK (node link) and BLOCK. For each node, NLINK stores the label needed to reach its",
@@ -7273,7 +7627,8 @@
         120,
         129
       ]
-    ]
+    ],
+    "ID": "355"
   },
   {
     "text": "Our translation method performs sense-based translation and pronunciation-based translation on the basis of statistical machine translation (SMT) methods.",
@@ -7288,7 +7643,8 @@
         108,
         139
       ]
-    ]
+    ],
+    "ID": "356"
   },
   {
     "text": "from dictionaries and hand-tailored heuristics. It applies statistical named entity recognition (NER) methods to the more challenging task of deidenti-",
@@ -7303,7 +7659,8 @@
         71,
         95
       ]
-    ]
+    ],
+    "ID": "357"
   },
   {
     "text": "(SO) weighting in the spirit of (Zhang et al, 2007; Li et al, 2007), and finally (f) the same system but with the target order (TO) weighting. ",
@@ -7326,7 +7683,8 @@
         73,
         80
       ]
-    ]
+    ],
+    "ID": "358"
   },
   {
     "text": "::= RL RL ::= prep rel loc word(S, object word) RL=rel loc word |",
@@ -7349,7 +7707,8 @@
         51,
         58
       ]
-    ]
+    ],
+    "ID": "359"
   },
   {
     "text": "Figure 4: Weight of links and category selection  3 .1  Representat ion  o f  OPED  The Oxford Pictorial English Dictionary(OPED) h,~s  very simple form of text and picture (Fig.3).",
@@ -7368,7 +7727,8 @@
         88,
         122
       ]
-    ]
+    ],
+    "ID": "360"
   },
   {
     "text": "Furthermore, if we can rank preferred verbs by domains, inferred verbs can be more useful to applications that focus on specific domains. Hence we defined Domain Verb Association (DVA) to measure how frequently inferred verbs are used with domain instances that can be used as subjects or",
@@ -7383,7 +7743,8 @@
         155,
         178
       ]
-    ]
+    ],
+    "ID": "361"
   },
   {
     "text": "follow-up study, Le Calvez (2007) compared KL to other indicators, namely the Jensen?Shannon divergence (JS) and the Bhattacharyya coefficient (BC).3 2.2 Lexical indicators",
@@ -7406,7 +7767,8 @@
         117,
         142
       ]
-    ]
+    ],
+    "ID": "362"
   },
   {
     "text": "that symbol?). The categories are:  1) Words as Words (WW): Within the context of  the sentence, the candidate phrase is used to ",
@@ -7421,7 +7783,8 @@
         39,
         53
       ]
-    ]
+    ],
+    "ID": "363"
   },
   {
     "text": "200 Acknowledgments This research is developed by the Arabic Language Technologies (ALT) group at Qatar Computing Research Institute (QCRI) within the Qatar Foundation in collaboration with MIT.",
@@ -7444,7 +7807,8 @@
         98,
         132
       ]
-    ]
+    ],
+    "ID": "364"
   },
   {
     "text": "Net?s ontological concepts and the correct sense of each word assigned by a Word Sense Disambiguation(WSD) module to extract three sets of pat-",
@@ -7459,7 +7823,8 @@
         76,
         100
       ]
-    ]
+    ],
+    "ID": "365"
   },
   {
     "text": "guage model. Instead, with information gathered  from interviews of subject matter experts (SME's),  we developed a handwritten grammar using Gemini ",
@@ -7474,7 +7839,8 @@
         68,
         90
       ]
-    ]
+    ],
+    "ID": "366"
   },
   {
     "text": "The next most confident 600 tuples (i.e., those numbered 1201?1800) were used to build a development set (DEV1) and the next most confident 600 (those numbered 1801?2400) were used",
@@ -7489,7 +7855,8 @@
         89,
         104
       ]
-    ]
+    ],
+    "ID": "367"
   },
   {
     "text": " INTRODUCTION  Compound Nouns: Compound nouns (CNs) are a  commonly occurring construction in language ",
@@ -7504,7 +7871,8 @@
         31,
         45
       ]
-    ]
+    ],
+    "ID": "368"
   },
   {
     "text": "more details of this at the end of the next section.  4 Compiling the DiCo (dictionary-like) database into a lexical system",
@@ -7519,7 +7887,8 @@
         76,
         86
       ]
-    ]
+    ],
+    "ID": "369"
   },
   {
     "text": "in this paper. We choose the classical optimization algorithm limited memory BFGS (L-BFGS) (Liu and Nocedal, 1989).",
@@ -7534,7 +7903,8 @@
         62,
         81
       ]
-    ]
+    ],
+    "ID": "370"
   },
   {
     "text": "provide an exhaustive list of connectives in the                                                    4 S=Subject; IO=Indirect Object; DO=Direct Object;  V=Verb; ERG=Ergative; DAT=Dative ",
@@ -7581,7 +7951,8 @@
         178,
         184
       ]
-    ]
+    ],
+    "ID": "371"
   },
   {
     "text": "Non Verbal Behaviors.   Sources abbreviated as: SPKR = Speaker; F = Friendship; V = Visibility; Rte = Route,  ",
@@ -7612,7 +7983,8 @@
         102,
         107
       ]
-    ]
+    ],
+    "ID": "372"
   },
   {
     "text": "Supertagging involves assigning words lexical entries based on a lexicalized grammatical theory, such as Combinatory Categorial Grammar (CCG) (Steedman, 2000) Tree-adjoining Grammar (Joshi,",
@@ -7627,7 +7999,8 @@
         105,
         135
       ]
-    ]
+    ],
+    "ID": "373"
   },
   {
     "text": "In Proc, of the lOth Pacific Asia  Conference on Language, Information and Com-  putation (PACLING), pages 163-172. ",
@@ -7646,7 +8019,8 @@
         21,
         89
       ]
-    ]
+    ],
+    "ID": "374"
   },
   {
     "text": "Beth Bryson). In addition, Robert Moore and Eric Jack-  son (SRI) provided critical help in designing and debug-  ging the code to support the minimal/maximal nswer ",
@@ -7656,7 +8030,8 @@
         64
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "375"
   },
   {
     "text": "plies that 58% of the time, our approach has improved the question relevance compared to that of the original candidate list (OList). ",
@@ -7671,7 +8046,8 @@
         101,
         124
       ]
-    ]
+    ],
+    "ID": "376"
   },
   {
     "text": "In the hierarchy of relations, Arguments (ARG) include Subject (SUBJ), Object (OBJ), Indirect Object (INDOBJ), Indirect Complement (IN-",
@@ -7710,7 +8086,8 @@
         85,
         100
       ]
-    ]
+    ],
+    "ID": "377"
   },
   {
     "text": "Higher log-likelihood corresponds to improved model fit. However, typi-cally it is desirable to penalize a higher number of hidden states, since increasing the model complexi-ty results in tradeoffs that may not be fully warrant-ed by the improvement in model fit. In this work, we utilize the Akaike Information Criterion (AIC), a standard penalized log-likelihood metric (Akaike, 1976).     ",
@@ -7725,7 +8102,8 @@
         294,
         322
       ]
-    ]
+    ],
+    "ID": "378"
   },
   {
     "text": "and van Zaanen, 2006).  A Logical Graph (LG) is a directed, bipartite graph with two types of vertices, concepts and re-",
@@ -7740,7 +8118,8 @@
         26,
         39
       ]
-    ]
+    ],
+    "ID": "379"
   },
   {
     "text": " ? Abbreviation features (ABB): For every term in the noslang dictionary, we checked whether",
@@ -7755,7 +8134,8 @@
         3,
         15
       ]
-    ]
+    ],
+    "ID": "380"
   },
   {
     "text": "tion.   In our decoders, language model(LM) is used  for translating edus in Formula(5),(6),(7),(8), but ",
@@ -7770,7 +8150,8 @@
         25,
         38
       ]
-    ]
+    ],
+    "ID": "381"
   },
   {
     "text": " The two subgraphs are a parse structure subgraph (PSS) and a linear order subgraph (LOS). ",
@@ -7793,7 +8174,8 @@
         25,
         49
       ]
-    ]
+    ],
+    "ID": "382"
   },
   {
     "text": "The proposals directly affect the organization o f   groups w i t h i n  EOP including the Office of Telecommmicatians Policy  (UP) ; the 0fiice of Science and Technology Policy (OSTP) ; the Intergovernmental  Science, Engineering, and Technology Advisory Panel (ISETAP) ; the President s ",
@@ -7824,7 +8206,8 @@
         191,
         260
       ]
-    ]
+    ],
+    "ID": "383"
   },
   {
     "text": "Machine learning in automated text categorization. In ACM computing surveys (CSUR). ",
@@ -7843,7 +8226,8 @@
         58,
         75
       ]
-    ]
+    ],
+    "ID": "384"
   },
   {
     "text": "4.1 Base Extraction As first step of the mention selection stage, we extracted all the noun phrases (NP), pronouns (PRP), and possessive pronouns (PRP$) for English and",
@@ -7858,7 +8242,8 @@
         87,
         99
       ]
-    ]
+    ],
+    "ID": "385"
   },
   {
     "text": "strict our attention to documents on this topic.  Thomson Reuter?s Web of Science (WOS), a database of scientific journal and conference arti-",
@@ -7873,7 +8258,8 @@
         67,
         81
       ]
-    ]
+    ],
+    "ID": "386"
   },
   {
     "text": "It has emerged in the context of information extraction (IE) and text mining (TM). The automatic recog-",
@@ -7896,7 +8282,8 @@
         33,
         55
       ]
-    ]
+    ],
+    "ID": "387"
   },
   {
     "text": "Format: type_of_word TAG type_of_word TAG ...  NN = Noun, NN-PL = Plural Noun  DET = Determiner, PREP = Preposition  POS = Possessive, J J = Adjective ",
@@ -7959,7 +8346,8 @@
         141,
         150
       ]
-    ]
+    ],
+    "ID": "388"
   },
   {
     "text": "age caption generator. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June.",
@@ -7978,7 +8366,8 @@
         49,
         88
       ]
-    ]
+    ],
+    "ID": "389"
   },
   {
     "text": "F = F-Measure with Recall and Precision Weighted Equally  J = Japanese S = Spanish  ME = Microelectronics  Mul t i l ingua l  ",
@@ -8005,7 +8394,8 @@
         75,
         82
       ]
-    ]
+    ],
+    "ID": "390"
   },
   {
     "text": " Generation Challenges 2010 brought together three sets of STECs: the three GREC Challenges, GREC Named Entity Generation (GREC-NEG), Named Entity Reference Detection (GREC-NER), and Named Entity Reference Regeneration",
@@ -8036,7 +8426,8 @@
         183,
         218
       ]
-    ]
+    ],
+    "ID": "391"
   },
   {
     "text": "(the concept <food,nutrient>).  The aim of using Selectional Preferences (SP) in SRL is to generalize from the argument heads in",
@@ -8055,7 +8446,8 @@
         49,
         72
       ]
-    ]
+    ],
+    "ID": "392"
   },
   {
     "text": "the use of lexical cohesion devices in each version of MT and HT in terms of the following two ratios, LC = lexical cohesion devices / content words, RC = repetition / content words.",
@@ -8086,7 +8478,8 @@
         155,
         175
       ]
-    ]
+    ],
+    "ID": "393"
   },
   {
     "text": "  Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 177?182, October 25-29, 2014, Doha, Qatar.",
@@ -8101,7 +8494,8 @@
         40,
         88
       ]
-    ]
+    ],
+    "ID": "394"
   },
   {
     "text": "pus (EBC) (Christodouloupoulos and Steedman, 2014), and our own collection of online texts published by the Wathctower Society (WTC). ",
@@ -8120,7 +8514,8 @@
         108,
         126
       ]
-    ]
+    ],
+    "ID": "395"
   },
   {
     "text": "utes of training time on an average laptop computer.  This model, the deep averaging network (DAN), works in three simple steps:",
@@ -8135,7 +8530,8 @@
         70,
         92
       ]
-    ]
+    ],
+    "ID": "396"
   },
   {
     "text": "pose augmenting queries in the style of relevance  feedback (Salton and Buckley 1990), Kalashnikov  (2007) treat Web Person Search (WePS) as a disambiguation problem whose objective is to distin-",
@@ -8150,7 +8546,8 @@
         113,
         130
       ]
-    ]
+    ],
+    "ID": "397"
   },
   {
     "text": "derstand what is being tested. In projects where independent verification and validation (IVV) is required this might be a problem, as most stake-",
@@ -8165,7 +8562,8 @@
         49,
         88
       ]
-    ]
+    ],
+    "ID": "398"
   },
   {
     "text": "ken varieties of Arabic, are still lacking. We present ELISSA, a machine translation (MT) system for DA to MSA.",
@@ -8180,7 +8578,8 @@
         65,
         84
       ]
-    ]
+    ],
+    "ID": "399"
   },
   {
     "text": " CSIDM-200804 partially funded by a grant from the National Research Foundation (NRF) administered by the Media Development Authority",
@@ -8199,7 +8598,8 @@
         51,
         79
       ]
-    ]
+    ],
+    "ID": "400"
   },
   {
     "text": "corpora. For the preposition and determiner errors, we adopt a statistical machine translation (SMT)based approach, aiming at correcting errors in con-",
@@ -8214,7 +8614,8 @@
         63,
         94
       ]
-    ]
+    ],
+    "ID": "401"
   },
   {
     "text": "umn.  Log frequency (LF) and global entropy (GE) are correlated.",
@@ -8237,7 +8638,8 @@
         29,
         43
       ]
-    ]
+    ],
+    "ID": "402"
   },
   {
     "text": "2002. DAML agent semantic communications service (ASCS) http://oak.teknowledge.com:8080/daml/damlquery.jsp",
@@ -8256,7 +8658,8 @@
         11,
         48
       ]
-    ]
+    ],
+    "ID": "403"
   },
   {
     "text": "The most common approach to document classification is to fit a linear model (e.g., Logistic Regression) over bag of words (BoW) features. To",
@@ -8271,7 +8674,8 @@
         110,
         122
       ]
-    ]
+    ],
+    "ID": "404"
   },
   {
     "text": "tences, or the NP is an exophora, this is NULL.  Speaker Binary Whether the speakers of the predicate and the NP are the same (SAME) or not (OTHER).",
@@ -8294,7 +8698,8 @@
         121,
         125
       ]
-    ]
+    ],
+    "ID": "405"
   },
   {
     "text": "ton (within the Perseus Digital Library) based on  texts of the Classical era (Bamman, 2006), and  the Index Thomisticus Treebank (IT-TB) at the  Catholic University of the Sacred Heart in Milan, ",
@@ -8309,7 +8714,8 @@
         103,
         129
       ]
-    ]
+    ],
+    "ID": "406"
   },
   {
     "text": " University of Chicago Given a constraint set with k constraints in the framework of Optimality Theory (OT), what is its capacity as a classification scheme for linguistic data?",
@@ -8324,7 +8730,8 @@
         85,
         102
       ]
-    ]
+    ],
+    "ID": "407"
   },
   {
     "text": " Figure 4: Algorithm for calculating the F-measure confusion matrix of True Positives (T.P.), False Positives (F.P.), True Negatives (T.N.), and False Negatives (F.N.). The ranking technique described in this paper creates a list of",
@@ -8363,7 +8770,8 @@
         94,
         109
       ]
-    ]
+    ],
+    "ID": "408"
   },
   {
     "text": "scopes are not necessarily contiguous.  Conditional Random Field (CRF) sequence tag? ",
@@ -8378,7 +8786,8 @@
         40,
         64
       ]
-    ]
+    ],
+    "ID": "409"
   },
   {
     "text": "evaluating work in speech recognition (SR), but until  recently no community-wide methodology existed for either  natural language (NL) researchers or speech understanding  (SU) researchers for evaluating the systems they developed.",
@@ -8409,7 +8818,8 @@
         151,
         171
       ]
-    ]
+    ],
+    "ID": "410"
   },
   {
     "text": "man evaluators 5.2 Mean Absolute Difference Analysis Here we calculated the mean absolute difference(MAD) between a human rater?s evaluation and SELSA (LSA)",
@@ -8432,7 +8842,8 @@
         76,
         100
       ]
-    ]
+    ],
+    "ID": "411"
   },
   {
     "text": "question answering over RDF data. In World Wide Web (WWW), pages 639?648. ",
@@ -8451,7 +8862,8 @@
         37,
         51
       ]
-    ]
+    ],
+    "ID": "412"
   },
   {
     "text": "2 mark up tool in Shakti Standard Format (SSF) (Bharati et al, 2005). For",
@@ -8466,7 +8878,8 @@
         18,
         40
       ]
-    ]
+    ],
+    "ID": "413"
   },
   {
     "text": "word in context. In this article we present a WSD algorithm based on random walks over large Lexical Knowledge Bases (LKB). We show that our algorithm performs better than other graph-",
@@ -8485,7 +8898,8 @@
         93,
         116
       ]
-    ]
+    ],
+    "ID": "414"
   },
   {
     "text": " 1.1 Elman and RCC networks  Simple recurrent networks (SRN's) of the Elman type  are similar to three-layer perceptrons but with recurrent ",
@@ -8500,7 +8914,8 @@
         29,
         54
       ]
-    ]
+    ],
+    "ID": "415"
   },
   {
     "text": "methods.  For example, consider the ways in which evaluation of machine translation (MT) systems is carried out.",
@@ -8515,7 +8930,8 @@
         64,
         83
       ]
-    ]
+    ],
+    "ID": "416"
   },
   {
     "text": " 4.1. Document Input (DI)  The DI process is the interface between ADEPT ",
@@ -8538,7 +8954,8 @@
         6,
         20
       ]
-    ]
+    ],
+    "ID": "417"
   },
   {
     "text": "method does not select any dimension.  Median Selection (MSel). As a further method",
@@ -8553,7 +8970,8 @@
         39,
         55
       ]
-    ]
+    ],
+    "ID": "418"
   },
   {
     "text": "1 Introduction Many algorithms in speech and language processing can be viewed as instances of dynamic programming (DP) (Bellman, 1957). The basic idea of",
@@ -8568,7 +8986,8 @@
         95,
         114
       ]
-    ]
+    ],
+    "ID": "419"
   },
   {
     "text": "reasoning? In International Conference on Learning Representations (ICLR). ",
@@ -8583,7 +9002,8 @@
         14,
         66
       ]
-    ]
+    ],
+    "ID": "420"
   },
   {
     "text": " 2.2 DIRT data The DIRT (Discovering Inference Rules from Text) method is based on extending Harris Distributional",
@@ -8602,7 +9022,8 @@
         25,
         62
       ]
-    ]
+    ],
+    "ID": "421"
   },
   {
     "text": "2 Classification Algorithms  2.1 Conditional Random Fields  Conditional random field (CRF) was an extension  of both Maximum Entropy Model (MEMs) and ",
@@ -8625,7 +9046,8 @@
         117,
         138
       ]
-    ]
+    ],
+    "ID": "422"
   },
   {
     "text": "7 (Ogren and Bethard, 2009) can be used to design and execute pipelines made up of a sequence of AEs (and potentially some more complex flows), and UIMA-AS 8",
@@ -8644,7 +9066,8 @@
         102,
         122
       ]
-    ]
+    ],
+    "ID": "423"
   },
   {
     "text": "LM. This approach has been successfully applied in automatic speech recognition (ASR) (Tam and Schultz, 2006) using the Latent Dirichlet Alloca-",
@@ -8663,7 +9086,8 @@
         51,
         79
       ]
-    ]
+    ],
+    "ID": "424"
   },
   {
     "text": "in all kind of NLP applications. As a particular case, Semantic Role Labeling (SRL) is currently a welldefined task with a substantial body of work and",
@@ -8682,7 +9106,8 @@
         55,
         77
       ]
-    ]
+    ],
+    "ID": "425"
   },
   {
     "text": "and answer sentences that emphasizes three types  of metadata:   (i) Main Verbs (MVerb), identified by the link  parser (Sleator and Temperley 1993);  ",
@@ -8697,7 +9122,8 @@
         69,
         79
       ]
-    ]
+    ],
+    "ID": "426"
   },
   {
     "text": "controlled vocabulary. As an application of the  Resource Description Framework (RDF), SKOS  allows concepts to be composed and published on the ",
@@ -8716,7 +9142,8 @@
         49,
         79
       ]
-    ]
+    ],
+    "ID": "427"
   },
   {
     "text": "scheme category in the corpus: Results (RES) is by far the most frequent zone (accounting for 40% of the corpus), while Background (BKG), Objective (OBJ), Method (METH) and Conclusion (CON) cover",
@@ -8763,7 +9190,8 @@
         173,
         183
       ]
-    ]
+    ],
+    "ID": "428"
   },
   {
     "text": "1994). Following (Collins, 2002), we used sections 0-18 of the Wall Street Journal (WSJ) corpus for training, sections 19-21 for development, and",
@@ -8778,7 +9206,8 @@
         63,
         82
       ]
-    ]
+    ],
+    "ID": "429"
   },
   {
     "text": "For our experiments, we collect debate posts from four popular domains, Abortion (ABO), Gay Rights (GAY), Obama (OBA), and Marijuana (MAR), from an online debate forum1.",
@@ -8817,7 +9246,8 @@
         123,
         132
       ]
-    ]
+    ],
+    "ID": "430"
   },
   {
     "text": "rlt*s*rle TR AN SFORHATIONS *S***   SCAN CALLED AT 1 I  ANTEST CALLED FOR 4l'I NG l1 (AACC) ,SD= 5. RES= 0.",
@@ -8844,7 +9274,8 @@
         56,
         69
       ]
-    ]
+    ],
+    "ID": "431"
   },
   {
     "text": "P,,nnsylvania (UPenn) Treebank. We plan to include  the parsed ICE-GB (Great Britain component of ICE)  and the BNC (British National Corpus) in the project ",
@@ -8879,7 +9310,8 @@
         0,
         13
       ]
-    ]
+    ],
+    "ID": "432"
   },
   {
     "text": "lief chunk), B-NCB (Beginning of non committed belief chunk), I-NCB (Inside of a non committed belief chunk), B-NA (Beginning of a not applicable chunk), I-NA (Inside a not applicable",
@@ -8918,7 +9350,8 @@
         160,
         183
       ]
-    ]
+    ],
+    "ID": "433"
   },
   {
     "text": "5 Experiments and Results 5.1 Data We use the British National Corpus (BNC),3 which contains 100M words, because it draws its",
@@ -8933,7 +9366,8 @@
         46,
         69
       ]
-    ]
+    ],
+    "ID": "434"
   },
   {
     "text": "  An Underspecified Segmented Discourse Representation Theory (USDRT)  Frank Schilder ",
@@ -8948,7 +9382,8 @@
         5,
         61
       ]
-    ]
+    ],
+    "ID": "435"
   },
   {
     "text": "gel Balaban,  ? hsan Yal??nkaya Middle East Technical University, Ankara, Turkey and   ? mit Deniz Turan Anadolu University, Eski?ehir, Turkey  Corresponding author: dezeyrek@metu.edu.tr  Abstract  In this paper, we report on the annotation procedures we developed for annotating the Turkish Discourse Bank (TDB), an effort that extends the Penn Discourse Tree Bank (PDTB) annotation style by using it for annotating Turkish discourse. After a brief introduction to the TDB, we describe the annotation cycle and the annotation scheme we developed, defining which parts of the scheme are an extension of the PDTB and which parts are different.",
@@ -8979,7 +9414,8 @@
         341,
         365
       ]
-    ]
+    ],
+    "ID": "436"
   },
   {
     "text": "siderable interest in robust knowledge extraction, both as an end in itself and as an intermediate step in a variety of Natural Language Processing (NLP) applications.",
@@ -8994,7 +9430,8 @@
         120,
         147
       ]
-    ]
+    ],
+    "ID": "437"
   },
   {
     "text": "features. Stolcke et al (1998) then expanded the prosodic tree model with a hidden event language model (LM) to identify sentence boundaries, filled pauses and IPs in",
@@ -9009,7 +9446,8 @@
         89,
         103
       ]
-    ]
+    ],
+    "ID": "438"
   },
   {
     "text": "The stated  goal for this language model adaptation spoke was \"to  evaluate an incremental supervised language model (LM)  adaptation algorithm on a problem of sublanguage ",
@@ -9024,7 +9462,8 @@
         102,
         116
       ]
-    ]
+    ],
+    "ID": "439"
   },
   {
     "text": "Synthesis) is a learning system \\[12,13,14\\] which  consists of a learning element (Meta-XMAS), a  knowledge base (KB), and two inference ngines  of a morphological nalyzer (MOA) and a mor- ",
@@ -9039,7 +9478,8 @@
         99,
         113
       ]
-    ]
+    ],
+    "ID": "440"
   },
   {
     "text": "errors; English had three, and German one.   While it is worth noting that (II) is not without  counterexamples, it is significant that true ",
@@ -9054,7 +9494,8 @@
         54,
         69
       ]
-    ]
+    ],
+    "ID": "441"
   },
   {
     "text": "We need to \"cross\" an instrument the_phone to reach another person, thus we also refer to the intermediate locus IME(LOC) in the domain of communication.",
@@ -9073,7 +9514,8 @@
         107,
         112
       ]
-    ]
+    ],
+    "ID": "442"
   },
   {
     "text": "5 Tools for the development of the prototype experiment For the practical development of our prototype experiments we are considering to use the upper cate-gories of the NIFSTD ontology and wikis as a collaborative tool. The availability and suitability for our research of the former has been considered in Maroto (2013).  NIFSTD (NIF Standard) ontology stands out as the most comprehensive ontology of the neurosci-ences available on the web. Its wide coverage and its degree of normalisation and reusability make this ontology particularly suitable for our research purposes.",
@@ -9092,7 +9534,8 @@
         332,
         344
       ]
-    ]
+    ],
+    "ID": "443"
   },
   {
     "text": "results are reported together with the error propagation from argument position classification for Same Sentence (SS), Previous Sentence (PS) models and joined results (ALL) as precision (P), recall",
@@ -9127,7 +9570,8 @@
         177,
         186
       ]
-    ]
+    ],
+    "ID": "444"
   },
   {
     "text": "354  Table 1: Precision and recMI tables for experiments starting with words-only queries (Words) through phrase (Del l )   and word (Del2) deletion to proper noun (Caps) and noun phrase (NP) grouping. The queries were evaluated on ",
@@ -9150,7 +9594,8 @@
         175,
         186
       ]
-    ]
+    ],
+    "ID": "445"
   },
   {
     "text": " 1 Introduction Minimum error rate training (MERT)?also known as direct loss minimization in machine learning?is a",
@@ -9165,7 +9610,8 @@
         16,
         43
       ]
-    ]
+    ],
+    "ID": "446"
   },
   {
     "text": "All conditions were assigned a section and are  thereby excluded. TE = temporal expression; TT = trigger term; V = scoped by verb.",
@@ -9192,7 +9638,8 @@
         125,
         129
       ]
-    ]
+    ],
+    "ID": "447"
   },
   {
     "text": "   1 Introduction  Named Entities (NEs) play a critical role in many  Natural Language Processing and Information ",
@@ -9207,7 +9654,8 @@
         19,
         33
       ]
-    ]
+    ],
+    "ID": "448"
   },
   {
     "text": "recognition) which describes a relationship between an input signal sequence and a word, the other is a language model (LM) which measures the likelihood of a sequence of words as a sen-",
@@ -9222,7 +9670,8 @@
         104,
         118
       ]
-    ]
+    ],
+    "ID": "449"
   },
   {
     "text": "jansche.1@osu.edu 1 Introduction Our approach to multilingual named entity (NE) recognition in the context of the CoNLL Shared",
@@ -9241,7 +9690,8 @@
         114,
         119
       ]
-    ]
+    ],
+    "ID": "450"
   },
   {
     "text": "  The word sea is ambiguous and has three senses as  given in the Princeton Wordnet (PWN):  S1: (n) sea (a division of an ocean or a large body ",
@@ -9256,7 +9706,8 @@
         66,
         83
       ]
-    ]
+    ],
+    "ID": "451"
   },
   {
     "text": "Other language technology applications, such as Question Answering (QA) systems or information retrieval (IR) systems, also suffer from the poor contextual disambiguation of word senses.",
@@ -9279,7 +9730,8 @@
         48,
         66
       ]
-    ]
+    ],
+    "ID": "452"
   },
   {
     "text": "Contextual relationship attributes:  1. Prefix Counted Rule (PRC): The selected  sense is the most commonly appended sense by the ",
@@ -9294,7 +9746,8 @@
         40,
         54
       ]
-    ]
+    ],
+    "ID": "453"
   },
   {
     "text": "metric TF*S~, since we base the importance of a  ? SF = Segment frequency (How many segments does  the term occur in) ",
@@ -9313,7 +9766,8 @@
         56,
         73
       ]
-    ]
+    ],
+    "ID": "454"
   },
   {
     "text": " {UK, US, AU}.   Figure 1: Proposed architecture      Figure 2: Baseline GMM based dialect classification 5.2 Latent Semantic Analysis for Dialect ID One approach used to address topic classification problems has been latent semantic analysis (LSA), which was first explored for document indexing in (Deerwester et al, 1990). This addresses the issues of synonymy - many ways to refer to the same idea and polysemy ?",
@@ -9348,7 +9802,8 @@
         218,
         242
       ]
-    ]
+    ],
+    "ID": "455"
   },
   {
     "text": "Tu?r, Oflazer, and Tu?r 2002; Oflazer 2003; Oflazer et al 2003; Eryig?it and Oflazer 2006) has represented the morphological structure of Turkish words by splitting them into inflectional groups (IGs). The root and derivational elements of a word are represented",
@@ -9363,7 +9818,8 @@
         175,
         194
       ]
-    ]
+    ],
+    "ID": "456"
   },
   {
     "text": "to match portions of a PAS.  3.2 The Shallow Semantic Tree Kernel (SSTK) The SSTK is based on two ideas: first, we change",
@@ -9386,7 +9842,8 @@
         37,
         65
       ]
-    ]
+    ],
+    "ID": "457"
   },
   {
     "text": "However, this hypothesis is reasonable if the  monolingual wordnets are reliable and correctly  linked to the interlingual index (ILI). Quality ",
@@ -9401,7 +9858,8 @@
         110,
         128
       ]
-    ]
+    ],
+    "ID": "458"
   },
   {
     "text": "Main verb of main clause (MV)F8. Boolean feature for MV (BMV)F9. Previous sentence feature (PREV)Additional feature used only for Arg1F10. Arg2 Labels",
@@ -9440,7 +9898,8 @@
         33,
         55
       ]
-    ]
+    ],
+    "ID": "459"
   },
   {
     "text": "projected expectations from English. To this end, we adopt the Generalized Expectation (GE) Criteria framework introduced by Mann and McCallum",
@@ -9455,7 +9914,8 @@
         63,
         86
       ]
-    ]
+    ],
+    "ID": "460"
   },
   {
     "text": "SOl,licit(co+ t{ach of these phrases conlpriscs a contigtlous  sequence o1 tags that satisfies a strut+h: gral,illilar, l\"or  example, a II(,itlll pluase eltil be simi)ly a plonoull  t~ig or (,in  all:l itlaly setitlellce (:,I lie(It1 lind ad.iective lags, pms ib ly  ",
@@ -9470,7 +9930,8 @@
         141,
         159
       ]
-    ]
+    ],
+    "ID": "461"
   },
   {
     "text": "(Person Names) by prometheus e. V.16, and Getty ULAN (United List of Artist Names)17 There are two modes of use for name authorities",
@@ -9485,7 +9946,8 @@
         54,
         84
       ]
-    ]
+    ],
+    "ID": "462"
   },
   {
     "text": "procedures\" (ReP). The RePs work on a memory structure which is adequate for the  representation of knowledge about objects, the \"referential net\" (RefN) 4*. A RefN ",
@@ -9512,7 +9974,8 @@
         130,
         145
       ]
-    ]
+    ],
+    "ID": "463"
   },
   {
     "text": "rates of sentences (46.1%) (53.9%) (40.4%) (59.6%) (70.7%) (29.3%) (54.3%) (45.7%) (64.3%) (35.7%) supervised CRF (baseline) 46.78 60.99 48.57 60.01 56.92 67.91 79.60 97.35 75.69 91.03 JESS-CM (CRF/HMM) 49.02 62.60 50.79 61.24 62.47 71.30 85.87 97.47 80.84 92.85 (gain from supervised CRF) (+2.24) (+1.61) (+2.22) (+1.23) (+5.55) (+3.40) (+6.27) (+0.12) (+5.15) (+1.82)",
@@ -9526,7 +9989,8 @@
         192
       ]
     ],
-    "long-forms": []
+    "long-forms": [],
+    "ID": "464"
   },
   {
     "text": "[byline : SAN SALVADOR, 19 APR 89 (ACAN-EFE) --] [bracket : [TEXT]] [fullname : SALVADORAN PRESIDENT-ELECT ALFREDO CRISTIIII] CONDEMNED THE TERRORIST KILLING OF [fullname : ATTORIEY GENERAL ROBERTO GARCI A ALVARADO] AND (comp : ACCUSED THE FARABUIDO MARTI NATIONAL LIBERATION FROIT [bracket : (FMLN)) OF) THE CRIME . ",
@@ -9541,7 +10005,8 @@
         240,
         275
       ]
-    ]
+    ],
+    "ID": "465"
   },
   {
     "text": "BLEU uses 2 reference translations. WER=word error rate, PER=position independent WER. ",
@@ -9556,7 +10021,8 @@
         61,
         81
       ]
-    ]
+    ],
+    "ID": "466"
   },
   {
     "text": " In (Speriosu et al., 2011), a label propagation (LProp) approach is proposed, while Go et al. ( 2009)",
@@ -9571,7 +10037,8 @@
         31,
         48
       ]
-    ]
+    ],
+    "ID": "467"
   },
   {
     "text": "eugene@mathcs.emory.edu Abstract Community question answering (CQA) websites contain millions of question and answer",
@@ -9586,7 +10053,8 @@
         33,
         61
       ]
-    ]
+    ],
+    "ID": "468"
   },
   {
     "text": " means a type of source ? newswire (NW), broadcast news (BN), broadcast conversation (BC), mag-",
@@ -9617,7 +10085,8 @@
         62,
         84
       ]
-    ]
+    ],
+    "ID": "469"
   },
   {
     "text": "either lexically encoded, or depends on the intrinsic properties of G, or coincides with a salient VPT (viewpoint). In striking contrast with",
@@ -9632,7 +10101,8 @@
         104,
         113
       ]
-    ]
+    ],
+    "ID": "470"
   },
   {
     "text": "Abstract  This paper attempts to use an off-the-shelf  anaphora resolution (AR) system for Bengali. ",
@@ -9647,7 +10117,8 @@
         55,
         74
       ]
-    ]
+    ],
+    "ID": "471"
   },
   {
     "text": "The SemEval?2007 task for extracting frame semantic structures relies on the human annotated data available in the FrameNet (FN) database. The",
@@ -9666,7 +10137,8 @@
         115,
         123
       ]
-    ]
+    ],
+    "ID": "472"
   },
   {
     "text": "hauer, haver, haber) and the corpus does not contain any other linguistic information, such as lemma and part of speech (PoS). ",
@@ -9681,7 +10153,8 @@
         105,
         119
       ]
-    ]
+    ],
+    "ID": "473"
   },
   {
     "text": "  The ungrammatical distracter, e.g., are in Figure 1,  has a different part of speech (POS) than the correct answer germs.",
@@ -9696,7 +10169,8 @@
         72,
         86
       ]
-    ]
+    ],
+    "ID": "474"
   },
   {
     "text": "Words/Phrases as Themselves (WD)  Symbols/Nonliteral Marks (SY)  Phonetic/Sound (PH)  Spelling (SP) ",
@@ -9731,7 +10205,8 @@
         86,
         94
       ]
-    ]
+    ],
+    "ID": "475"
   },
   {
     "text": "DS = Discharge Summary,  Echo = Echocardiogram, ED = Emergency Department,  GI = Operative Gastrointestinal, RAD = Radiology and  SP = Surgical Pathology. (%)",
@@ -9786,7 +10261,8 @@
         135,
         153
       ]
-    ]
+    ],
+    "ID": "476"
   },
   {
     "text": "mdiab@ccls.columbia.edu Abstract We analyze overt displays of power (ODPs) in written dialogs.",
@@ -9801,7 +10277,8 @@
         44,
         58
       ]
-    ]
+    ],
+    "ID": "477"
   },
   {
     "text": "(PERS), organization (ORG), geo-political entity (GPE), weapon (WEA), vehicle (VEH), location (LOC), and facility (FAC). Since the person type",
@@ -9860,7 +10337,8 @@
         85,
         93
       ]
-    ]
+    ],
+    "ID": "478"
   },
   {
     "text": "Abstract In this paper, we propose a new syntaxbased machine translation (MT) approach based on reducing the MT task to a tree-",
@@ -9879,7 +10357,8 @@
         53,
         72
       ]
-    ]
+    ],
+    "ID": "479"
   },
   {
     "text": "  The second one is a variant that we named  Double Levenshtein?s Edit Distance (DLED)  (see Table 9 for detail).",
@@ -9894,7 +10373,8 @@
         45,
         79
       ]
-    ]
+    ],
+    "ID": "480"
   },
   {
     "text": "by HG's (HL). In particular, we show that HL's are included in TAL's andthat TAG's are equivalent toa modification ofHG:s  called Modified Head Grammars (MHG's). The inclusion of MHL in HI.,,",
@@ -9937,7 +10417,8 @@
         130,
         152
       ]
-    ]
+    ],
+    "ID": "481"
   },
   {
     "text": "TEMPLATE GENERATO R Template Generation Algorithm The memory-based parser generates one or several concept sequence instances (CSI's) for each sentence . ",
@@ -9952,7 +10433,8 @@
         99,
         125
       ]
-    ]
+    ],
+    "ID": "482"
   },
   {
     "text": " (Ramshaw and Marcus, 1995) approached chucking by using Transformation Based Learning(TBL). ",
@@ -9967,7 +10449,8 @@
         57,
         86
       ]
-    ]
+    ],
+    "ID": "483"
   },
   {
     "text": "demonstrate such dependencies.  The Maximum Entropy (MaxEnt) model (Berger et al, 1996) estimates the probability of a time-bin",
@@ -9982,7 +10465,8 @@
         36,
         51
       ]
-    ]
+    ],
+    "ID": "484"
   },
   {
     "text": "dialogues categorized into multiple domains, we create a particular type of hidden Markov model (HMM) called Class Speaker HMM (CSHMM) to model operator/caller utterance sequences.",
@@ -9997,7 +10481,8 @@
         109,
         126
       ]
-    ]
+    ],
+    "ID": "485"
   },
   {
     "text": "shared task, namely FLORIAN (Florian et al.,  2003) and CHIEU-NG (Chieu and Ng, 2003). ",
@@ -10020,7 +10505,8 @@
         29,
         36
       ]
-    ]
+    ],
+    "ID": "486"
   },
   {
     "text": " 1 Introduction Open-domain Question Answering (QA) systems are concerned with the problem of trying",
@@ -10035,7 +10521,8 @@
         28,
         46
       ]
-    ]
+    ],
+    "ID": "487"
   },
   {
     "text": "229  Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1810?1815, October 25-29, 2014, Doha, Qatar.",
@@ -10050,7 +10537,8 @@
         43,
         91
       ]
-    ]
+    ],
+    "ID": "488"
   },
   {
     "text": "1 Introduction Large-scale open-domain question answering from structured Knowledge Base (KB) provides a good balance of precision and recall in everyday QA",
@@ -10069,7 +10557,8 @@
         74,
         88
       ]
-    ]
+    ],
+    "ID": "489"
   },
   {
     "text": "th fo frture representations abstracts (AbT), titles (ArT),  authors (Aut), Journals (Jou), and Mesh Headings",
@@ -10108,7 +10597,8 @@
         76,
         84
       ]
-    ]
+    ],
+    "ID": "490"
   },
   {
     "text": "787 After labeling the reference BINet, we train a learning to rank (L2R) model2 using the following features for scoring nodes in the target BINet",
@@ -10123,7 +10613,8 @@
         51,
         67
       ]
-    ]
+    ],
+    "ID": "491"
   },
   {
     "text": "for the annotation process.  Topic models (TMs) are a suite of unsuper992",
@@ -10138,7 +10629,8 @@
         29,
         41
       ]
-    ]
+    ],
+    "ID": "492"
   },
   {
     "text": "Evidence for a text?s topic and genre comes, in part, from its lexical and syntactic features?features used in both Automatic Topic Classification and Automatic Genre Classification (AGC). Because an ideal AGC system should",
@@ -10157,7 +10649,8 @@
         151,
         181
       ]
-    ]
+    ],
+    "ID": "493"
   },
   {
     "text": "0.35 0.25 0.50 0.75 1.00 Omission Rate (OR) Co",
@@ -10172,7 +10665,8 @@
         25,
         38
       ]
-    ]
+    ],
+    "ID": "494"
   },
   {
     "text": "The query (Figure 4a) will match adjectives (ADJA) adjacent to a following noun (NN) which must not have another dependent that is either a modifying noun or name (NE).",
@@ -10203,7 +10697,8 @@
         158,
         162
       ]
-    ]
+    ],
+    "ID": "495"
   },
   {
     "text": "the middle (Baxendale, 1958).  Sentence Position Yield (SPY) is obtained separately for both types of documents.",
@@ -10218,7 +10713,8 @@
         31,
         54
       ]
-    ]
+    ],
+    "ID": "496"
   },
   {
     "text": "   By contrast, our approach operates at the level  of inflectional property sets (IPS), or more  properly, at the level of inflectional paradigms.",
@@ -10233,6 +10729,7 @@
         55,
         81
       ]
-    ]
+    ],
+    "ID": "497"
   }
 ]
