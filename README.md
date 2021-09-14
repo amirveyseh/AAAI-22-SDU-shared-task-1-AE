@@ -11,7 +11,7 @@ The dataset folder contains data for six languages English (Legal domain and Sci
   - acronyms: A list of tuples representing the acronyms in the text. Each tuple has two integer value representing the index of the first and last character of the acronym in the text, respectively.
   - long-forms: A list of tuples representing the long-forms in the text. Each tuple has two integer value representing the index of the first and last character of the long-form in the text, respectively.
   - id: The unique ID of the sample
-- **dev.json**: The development set for acronym identification task. The samples in `dev.json` have the same attributes as the samples in `train.json`.
+- **dev.json**: The development set for acronym extraction task. The samples in `dev.json` have the same attributes as the samples in `train.json`.
 
 
 # Code
