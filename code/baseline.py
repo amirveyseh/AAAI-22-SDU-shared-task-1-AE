@@ -39,12 +39,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     ## READ data
-    with open(args.input) as file:
+    with open(args.input, encoding= 'utf-8') as file:
         data = json.load(file)
 
     ## Predict
     predictions = predict(data)
 
     ## Save
-    with open(args.output, 'w') as file:
+    with open(args.output, 'w', encoding= 'utf-8') as file:
         json.dump(predictions, file)
